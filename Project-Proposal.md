@@ -5,7 +5,6 @@ subtitle: Museum CuraTour
 bigimg: /img/6a01bb09d94071970d01b7c95030e7970b-800wi.png
 ---
 
-
 ## Motivation
 
 You enter a museum. What’s the first thing you do? 
@@ -23,3 +22,5 @@ People often don’t know how to navigate through a museum in an engaging way if
 The solution we envision is a personal curator. The personal curator will provide seamless information about relevant art pieces through audio and visual interfaces. This system also supports varying levels of guidance, while also suggesting paths for future exploration. For each visitor, Personal CuraTour aims to provide the appropriate amount of guidance and to help them discover relationships and insights between pieces that they otherwise would not have known. This assistance performs similarly to how a curator communicates the relationships between works of art while also encouraging them to explore new pieces.  
 
 The Personal CuraTour may take the form of a mobile app where the visitor logs in upon entering the museum. Next the visitor would select a level of guidance ranging from minimal to a predetermined path through the museum provided by curators. Once the visitor is within the gallery, the guidance comes to them through mostly audio and the app will support limited functionality to promote a deeper engagement with the exhibit. 
+
+([Source](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwic0ejV5dzdAhUOJt8KHeLiC_oQjRx6BAgBEAU&url=http%3A%2F%2Ftorontopubliclibrary.typepad.com%2Ftrl%2F2018%2F02%2Ftd-gallery-audio-tour-now-available.html&psig=AOvVaw2wLKb-dmmfZxrMRfiVQlm3&ust=1538192941048421)) for header image.
