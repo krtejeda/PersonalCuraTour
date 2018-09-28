@@ -24,7 +24,7 @@ description: A virtual proof that name is awesome!
 # List of links in the navigation bar
 navbar-links:
   About Us: "aboutme"
-  Assingments:
+  Assignments:
     - Team Contract: "Team-Contract"
     - Group Project Proposal: "Contextual-Inquiry-Plan"
 
