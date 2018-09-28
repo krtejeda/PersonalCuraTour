@@ -2,7 +2,7 @@
 layout: page
 title: Project Proposal
 subtitle: Museum CuraTour
-bigimg: img/6a01bb09d94071970d01b7c95030e7970b-800wi.png
+bigimg: /img/6a01bb09d94071970d01b7c95030e7970b-800wi.png
 ---
 
 
