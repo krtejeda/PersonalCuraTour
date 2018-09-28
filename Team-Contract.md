@@ -15,6 +15,8 @@ subtitle: no
 
 * Everyone should be proud and feel invested in the outcome of the project.
 
+* Must celebrate birthdays.
+
 ## Preliminary focus on purpose
 * Work as a team to solve design issues and be open minded in our process.
 * Learn and practice the user design process.
