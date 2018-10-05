@@ -20,27 +20,19 @@ Our retrospective contextual inquiry was with Shaggy, who curated the Dance We M
 
 ## Synthesizing the Affinity Diagram
 
-*Things you are more familiar with are more interesting*: If the user already has some understanding or interest in the art, then they are more likely to engage with it.
+*Interest in Familiarity:* If the user already has some understanding or interest in the art, then they are more likely to engage with it.  Prior knowledge helps shape future interaction with the art, and seeing something one is familiar with reinforces the enjoy
 
-*More information is best*: In both of our student contextual inquires, the individuals found that they left the pieces wanting to know more about them. 
+*Desirable context:* In both of our student contextual inquires, the individuals wanted to know more about certain pieces that were sparsely labeled, often having questions of a specific nature that might not even be able to fit on such a label. 
 
-*It’s too much work to learn something new*: If the information is not readily accessible, trying to teach yourself is not appealing. 
+*Learning takes effort:* If the information is not readily accessible, trying to teach yourself is not appealing, requiring mental labor that museumgoers might not have. If there is no context provided or if the context that is provided is unclear, then the user is not inclined to put in the effort to understand fully.
 
-*Timing of information is important*: When it comes to the placement of placards next to pieces or other information en route to the next experience, the user might not see them at the right time, disrupting their experience. 
+*Timing is important:* When it comes to the placement of placards next to pieces or other information en route to the next experience, the user might not see them at the right time, disrupting their experience.  The curator also noted how writing labels is like writing a book, except one does not know in what order these “pages” will be viewed.
+ 
+*Seamlessness vs. Guidance:* The curator often referred to the design of the space to resemble a river, naturally flowing from piece to piece.  At the same time, WCMA in particular, these subtle cues described by the curator (in particular in ‘Dance we must’) were often not understood by our student subjects, who veered off the chronological path laid out almost immediately--yet these student visitors may have been better served by following the right path.  Here we see a mobile solution as offering a bridge between these two interests.
 
-*Curator’s desire for seamless experience*: The curator often referred to the design of the space to resemble a river, naturally flowing from piece to piece. 
+*Conversation is a better avenue of information:* Some of the themes in the museum are unattainable through just reading and require a discourse. 
 
-*Trying to understand things that are not well explained is futile*: If there is no context provided or if the context that is provided is unclear, then the user is not inclined to put in the effort to understand fully.
-
-*I want to know what is important*: The user wants to know the main points and wants it to be clear that those are the main points of the piece or exhibit. 
-
-*There is uncertainty in where to go next*: With different galleries being open at different times and the unusual shape of WCMA, there is not always a clear understanding of where to go regardless of interest.
-
-*Conversation is a better avenue of information*: Some of the themes in the museum are unattainable through just reading and require a discourse. 
-
-*I want control over the information I consume*: Museums can be overwhelming so the user wants to know that they can choose when and how to engage with the information about the art.
-
-*I go at my own pace*: the user wants to pave their own path through the museum and be open to serendipitous discoveries, while still getting to the things that interest them. 
+*Control and pacing:* Museums can be overwhelming so the user wants to know that they can choose when and how to engage with the information about the art. The user wants to pave their own path through the museum and be open to serendipitous discoveries, while still getting to the things that interest them. 
 
 Despite the bottom-up approach to our affinity diagram, we discovered themes both reaffirm and clarify some of the issues we described in our project proposal, specifically the themes: “Things you are more familiar with are more interesting,” “I want control over the information I consume,” and “I go at my own pace.” These particular themes will be interesting to design for because they don’t express a need for guidance, and instead they imply people don’t like being told how to experience the museum. Also, after discovering that curator's do indeed design museum's with intended structures and narratives, yet they are actively ignored by most visitors, we want to implement into our design a way to help express the curators "flow." Finally, while the theme "Conversation is a better avenue of information" is an extremely insightful theme because while we wont be able to implement conversations into our design (for the fear of making it feel bloated), it helps make aware that the social aspect of the museum experience shouldn't ignored. 
 
