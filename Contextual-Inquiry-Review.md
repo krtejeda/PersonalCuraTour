@@ -29,8 +29,6 @@ Visitors often wander and fail to follow the path envisioned by the curators, po
 3. *What tasks are desired?*
 The goal is to augment the serendipity that comes with wandering through a museum with more context and narrative, providing additional guidance towards pieces the visitor would be interested in, all without totally disrupting the visitor's independence and agency.  Current museum visitors often desire more context and more obvious cues towards the right path, and our app would aim to provide that.  As an added side effect, data could be collected on the users to help curators determine what the travel patterns and interactions within the museum look like.
 
-This could be accomplished through both audio and visual interfaces.
-
 4. *How are the tasks learned?*
 Our goal is to have the interface be integrated as seamlessly as possible; users would only have to learn how to comprehend and sometimes follow voice, text, or haptic prompts.  Learning would occur with the use of the app, and at any point the app could be ignored without detriment. This would enable greater comfort and understanding of the art pieces, potentially increasing understanding, appreciation, and enagement, while preserving user control over their own experience.  Current space cues can be potentially ineffective at guiding visitors in the right path if viewed by inexperienced people, so augmenting this seems to pay potential dividends.
 
