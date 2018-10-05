@@ -30,16 +30,9 @@ Visitors often wander and fail to follow the path envisioned by the curators, po
 The goal is to augment the serendipity that comes with wandering through a museum with more context and narrative, providing additional guidance towards pieces the visitor would be interested in, all without totally disrupting the visitor's independence and agency.  Current museum visitors often desire more context and more obvious cues towards the right path, and our app would aim to provide that.  As an added side effect, data could be collected on the users to help curators determine what the travel patterns and interactions within the museum look like.
 
 This could be accomplished through both audio and visual interfaces.
-Attention (audio?)
-Connection + Conversation 
-Navigation
 
 4. *How are the tasks learned?*
-Our goal is to have the interface be integrated as seamlessly as possible; users would only have to learn how to comprehend and sometimes follow voice or text prompts.  This would enable greater comfort and understanding of the art pieces, potentially increasing understanding, appreciation, and enagement.  Current space cues can be potentially ineffective at guiding visitors in the right path if viewed by inexperienced people, so augmenting this seems to pay potential dividends.
-
-The larger pieces usually imply a greater amount of attention is demanded, when near a piece with an audio track, phone vibrates? User can choose to tune in or skip?
-The connections are made internally and if the user wants to hear another view point maybe we have another audio track from the same exhibit/piece but a contrasting opinion on the piece to facilitate “discussion”. 
-The space cues which way to go through the exhibit but the app is always available to show which exhibits are directly related and you may filter by what you are looking for. 
+Our goal is to have the interface be integrated as seamlessly as possible; users would only have to learn how to comprehend and sometimes follow voice, text, or haptic prompts.  Learning would occur with the use of the app, and at any point the app could be ignored without detriment. This would enable greater comfort and understanding of the art pieces, potentially increasing understanding, appreciation, and enagement, while preserving user control over their own experience.  Current space cues can be potentially ineffective at guiding visitors in the right path if viewed by inexperienced people, so augmenting this seems to pay potential dividends.
 
 5. *Where are the tasks performed?*
 The tasks are performed by the users as they interact and navigate through the museum, with the guidance provided by the interface.  Users are generally passive and receive prompts from the app--although they could potentially also make requests.
