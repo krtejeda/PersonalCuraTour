@@ -3,8 +3,9 @@ title: Contextual Inquiry Review
 layout: page
 ---
 
-We performed two traditional contextual inquiries and one retrospective contextual inquiry at the Williams College Museum of Art (WCMA) in order to understand our users and how they interact with the museum. Our contextual inquiries were both with Williams students--one highly experienced with museums and WCMA, the other completely new to WCMA and not experienced with museums in general. Our retrospective contextual inquiry was with a curator at WCMA who lent insight into the design process behind each exhibits, and in particular "Jacob's Pillow".  Through these contextual inquiries, we discovered that museum vistors have varying levels of engagement and understanding with exhibits, and often not in ways that the curators have envisioned. The curator revealed the opposite side of the equation, how most exhibits incorporate deliberate but subtle cues that intend to guide visitors in certain directions and along certain narrative messages.  We discovered a clear discrepancy between the vision of the curators and the reality experienced by these two museumgoers, one that potentially detracts from the full experience of the museum unless supplemented by other means.  We also discovered that curators do not have a means to understand how visitors are interacting with the exhibits, relying only on sporadic feedback.  With these observations in mind, we believe that we have enough basis to design a platform that will provide navigation, exhibit information, and contextual insights. 
+## Summary
 
+We performed two traditional contextual inquiries and one retrospective contextual inquiry at the Williams College Museum of Art (WCMA) in order to understand our users and how they interact with the museum. Our contextual inquiries were both with Williams students--one highly experienced with museums and WCMA, the other completely new to WCMA and not experienced with museums in general. Our retrospective contextual inquiry was with a curator at WCMA who lent insight into the design process behind each exhibits, and in particular "Jacob's Pillow".  Through these contextual inquiries, we discovered that museum vistors have varying levels of engagement and understanding with exhibits, and often not in ways that the curators have envisioned. The curator revealed the opposite side of the equation, how most exhibits incorporate deliberate but subtle cues that intend to guide visitors in certain directions and along certain narrative messages.  We discovered a clear discrepancy between the vision of the curators and the reality experienced by these two museumgoers, one that potentially detracts from the full experience of the museum unless supplemented by other means.  We also discovered that curators do not have a means to understand how visitors are interacting with the exhibits, relying only on sporadic feedback.  With these observations in mind, we believe that we have enough basis to design a platform that will provide navigation, exhibit information, and contextual insights. 
 
 ## Participants 
 
@@ -26,6 +27,9 @@ Our design is intended to improve the experience of museumgoers, although if we 
 Visitors often wander and fail to follow the path envisioned by the curators, potentially missing out on the narrative but, at the same time, also experiencing the museum uniquely and at their own pace--sometimes more to their liking.  On interaction with individual pieces, some visitors to be unsatisfied with the level of context and explanation provided.
 
 3. *What tasks are desired?*
+To augment natural visitors patterns with useful information and context; to augment the serendipity that comes with wandering through a museum with more context and narrative, providing additional guidance towards pieces the visitor would be interested in, without totally disrupting the visitor's independence and agency.  As an added side effect, data could be collected on the users to help curators determine what the travel patterns and interactions within the museum look like.
+
+This could be accomplished through both audio and visual interfaces.
 Attention (audio?)
 Connection + Conversation 
 Navigation
@@ -54,3 +58,5 @@ Throughout the time spent in the museum. Once an individual is done with a piece
 
 11. *What happens when things go wrong?*
 People are okay when they navigate an unintentional way through a museums. However in the Dance We Must exhibit the pieces were set up so that the visitor would get through them in chronological order. Thus when the visitor goes the wrong direction, an element of the exhibit is lost, here it would be continuity. 
+
+
