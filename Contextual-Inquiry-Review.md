@@ -37,17 +37,20 @@ The space cues which way to go through the exhibit but the app is always availab
 
 5. *Where are the tasks performed?*
 Within the mind of the user and within the the museum
-What is the relationship between the person and data?
 
-6. *What other tools does the person have?*
+6. *What is the relationship between the person and data?*
+
+7. *What other tools does the person have?*
 Museum visitors multiple tools during their time at a museum like: the exhibit/gallery introductions, the placards next to the art, the gallery docents, audio/video interfaces, signs and maps. 
-How do people communicate with each other?
+
+8. *How do people communicate with each other?*
 Daphne avoided other people during her time in the museum. Fred desired deeper conversation and spoke about his experience with his parents where he frequently talks with them after viewing pieces. 
 
-7. *How often are the tasks performed?*
+9. *How often are the tasks performed?*
 Throughout the time spent in the museum. Once an individual is done with a piece they direct their energy to navigating to the next piece, where they allocate an appropriate amount of attention based on what they see and how it connects to them. More connection yields more attention but more attention does not necessarily yield more connection. We spent a lot of time in the AIDS exhibit downstairs with Fred where he did not agree with the message being stated in the introduction to the exhibit. He did not feel that he was gaining the same things from the art that the text was claiming. 
 	
-8. *What are the time constraints on the tasks?*
+10. *What are the time constraints on the tasks?*
 “There is a pace to museums”. The tasks are performed at certain locations, provided you are in the location of the piece or generally in the museum you may perform any of the tasks. 
-What happens when things go wrong?
+
+11. *What happens when things go wrong?*
 People are okay when they navigate an unintentional way through a museums. However in the Dance We Must exhibit the pieces were set up so that the visitor would get through them in chronological order. Thus when the visitor goes the wrong direction, an element of the exhibit is lost, here it would be continuity. 
