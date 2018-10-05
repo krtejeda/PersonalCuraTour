@@ -27,7 +27,7 @@ Our design is intended to improve the experience of museumgoers, although if we 
 Visitors often wander and fail to follow the path envisioned by the curators, potentially missing out on the narrative but, at the same time, also experiencing the museum uniquely and at their own pace--sometimes more to their liking.  On interaction with individual pieces, some visitors to be unsatisfied with the level of context and explanation provided.
 
 3. *What tasks are desired?*
-To augment natural visitors patterns with useful information and context; to augment the serendipity that comes with wandering through a museum with more context and narrative, providing additional guidance towards pieces the visitor would be interested in, without totally disrupting the visitor's independence and agency.  As an added side effect, data could be collected on the users to help curators determine what the travel patterns and interactions within the museum look like.
+The goal is to augment the serendipity that comes with wandering through a museum with more context and narrative, providing additional guidance towards pieces the visitor would be interested in, all without totally disrupting the visitor's independence and agency.  Current museum visitors often desire more context and more obvious cues towards the right path, and our app would aim to provide that.  As an added side effect, data could be collected on the users to help curators determine what the travel patterns and interactions within the museum look like.
 
 This could be accomplished through both audio and visual interfaces.
 Attention (audio?)
@@ -35,28 +35,31 @@ Connection + Conversation
 Navigation
 
 4. *How are the tasks learned?*
+Our goal is to have the interface be integrated as seamlessly as possible; users would only have to learn how to comprehend and sometimes follow voice or text prompts.  This would enable greater comfort and understanding of the art pieces, potentially increasing understanding, appreciation, and enagement.  Current space cues can be potentially ineffective at guiding visitors in the right path if viewed by inexperienced people, so augmenting this seems to pay potential dividends.
+
 The larger pieces usually imply a greater amount of attention is demanded, when near a piece with an audio track, phone vibrates? User can choose to tune in or skip?
 The connections are made internally and if the user wants to hear another view point maybe we have another audio track from the same exhibit/piece but a contrasting opinion on the piece to facilitate “discussion”. 
 The space cues which way to go through the exhibit but the app is always available to show which exhibits are directly related and you may filter by what you are looking for. 
 
 5. *Where are the tasks performed?*
-Within the mind of the user and within the the museum
+The tasks are performed by the users as they interact and navigate through the museum, with the guidance provided by the interface.  Users are generally passive and receive prompts from the app--although they could potentially also make requests.
 
 6. *What is the relationship between the person and data?*
+The data helps the person navigate through the museum while better understanding the pieces they see.  It also helps them gain greater contextual understanding of the pieces they see, while influencing their choices for what pieces to visit next.  These augment the other tools that already exist to enhance the experience that visitors have.  
 
 7. *What other tools does the person have?*
-Museum visitors multiple tools during their time at a museum like: the exhibit/gallery introductions, the placards next to the art, the gallery docents, audio/video interfaces, signs and maps. 
+Museum visitors multiple tools during their time at a museum like: the exhibit/gallery introductions, the placards next to the art, the gallery docents, audio/video interfaces, signs and maps, and even subtle cues designed into the exhibit by curators, such as placement and angling of display cases. 
 
 8. *How do people communicate with each other?*
-Daphne avoided other people during her time in the museum. Fred desired deeper conversation and spoke about his experience with his parents where he frequently talks with them after viewing pieces. 
+Daphne avoided other people during her time in the museum. Fred desired deeper conversation and spoke about his experience with his parents where he frequently talks with them after viewing pieces.  Our proposal would provide another interface of communication.
 
 9. *How often are the tasks performed?*
 Throughout the time spent in the museum. Once an individual is done with a piece they direct their energy to navigating to the next piece, where they allocate an appropriate amount of attention based on what they see and how it connects to them. More connection yields more attention but more attention does not necessarily yield more connection. We spent a lot of time in the AIDS exhibit downstairs with Fred where he did not agree with the message being stated in the introduction to the exhibit. He did not feel that he was gaining the same things from the art that the text was claiming. 
 	
 10. *What are the time constraints on the tasks?*
-“There is a pace to museums”. The tasks are performed at certain locations, provided you are in the location of the piece or generally in the museum you may perform any of the tasks. 
+“There is a pace to museums”. The tasks are performed at certain locations, provided you are in the location of the piece or generally in the museum you may perform any of the tasks.  Many people enjoy navigating at their own pace, based on the observations made during our inquiries, so our design would aim to support that.   
 
 11. *What happens when things go wrong?*
-People are okay when they navigate an unintentional way through a museums. However in the Dance We Must exhibit the pieces were set up so that the visitor would get through them in chronological order. Thus when the visitor goes the wrong direction, an element of the exhibit is lost, here it would be continuity. 
+People are okay when they navigate an unintentional way through a museums, and as the curator noted, this is something often expected. However in the Dance We Must exhibit the pieces were set up deliberately so that the visitor would get through them in chronological order. Thus when the visitor goes the wrong direction, an element of the exhibit is lost, here it would be continuity. Our design would aim to support those who make such deviations, allowing them to pick up narratives if they so desire, or simply appreciate each pieces on an individual level independent from the larger context.
 
 
