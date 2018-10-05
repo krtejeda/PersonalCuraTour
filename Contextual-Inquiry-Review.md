@@ -18,6 +18,34 @@ Our second contextual inquiry was with Fred. Fred described himself as someone w
 3. **Shaggy (*museum* *curator*)**
 Our retrospective contextual inquiry was with Shaggy, who curated the Dance We Must exhibit at WCMA. Shaggy has been a curator at WCMA for five years and describes his experience at WCMA to be quite different from his most previous job because of the challenges of the space. He noted that unlike his last job at a museum that had a "carwash" layout--one where visitors automatically have to follow one path through the museum--WCMA clearly has many entrances and exits to each exhibit, and many nooks and crannies.  We met with Shaggy on an afternoon in October and went to the exhibit where we performed the retrospective contextual inquiry. The museum was a bit crowded on that day and another museumgoer even interrupted the interview to speak with Shaggy, complimenting him on the design of the museum.  Shaggy did not require special prompting, and was more than happy to explain the process behind the design of the exhibit, from challenges in guiding people in the space to the flow of the exhibit overall, which he tried to regulate through subtle cues such as the densities and visual appeal of artwork, angling of displays, and even translucent elements that would hint at the works behind.  However, he had no way of knowing if people actually do follow this path.  He also provided commentary on the nature of writing placards, and how he wanted things on placards to mostly be visual. Lastly, while he was open to the idea of technological aids, in particular in supporting the experience of people who like to wander, he also did not want technology to overpower the experience--preferring audio guides over AR, for example.  Overall, this was an extremely useful inquiry as it provided insight into the thought process behind the exhibits that our other subjects interacted with.    
 
+## Synthesizing the Affinity Diagram
+
+*Things you are more familiar with are more interesting*: If the user already has some understanding or interest in the art, then they are more likely to engage with it.
+
+*More information is best*: In both of our student contextual inquires, the individuals found that they left the pieces wanting to know more about them. 
+
+*It’s too much work to learn something new*: If the information is not readily accessible, trying to teach yourself is not appealing. 
+
+*Timing of information is important*: When it comes to the placement of placards next to pieces or other information en route to the next experience, the user might not see them at the right time, disrupting their experience. 
+
+*Curator’s desire for seamless experience*: The curator often referred to the design of the space to resemble a river, naturally flowing from piece to piece. 
+
+*Trying to understand things that are not well explained is futile*: If there is no context provided or if the context that is provided is unclear, then the user is not inclined to put in the effort to understand fully.
+
+*I want to know what is important*: The user wants to know the main points and wants it to be clear that those are the main points of the piece or exhibit. 
+
+*There is uncertainty in where to go next*: With different galleries being open at different times and the unusual shape of WCMA, there is not always a clear understanding of where to go regardless of interest.
+
+*Conversation is a better avenue of information*: Some of the themes in the museum are unattainable through just reading and require a discourse. 
+
+*I want control over the information I consume*: Museums can be overwhelming so the user wants to know that they can choose when and how to engage with the information about the art.
+
+*I go at my own pace*: the user wants to pave their own path through the museum and be open to serendipitous discoveries, while still getting to the things that interest them. 
+
+Despite the bottom-up approach to our affinity diagram, we discovered themes both reaffirm and clarify some of the issues we described in our project proposal, specifically the themes: “Things you are more familiar with are more interesting,” “I want control over the information I consume,” and “I go at my own pace.” These particular themes will be interesting to design for because they don’t express a need for guidance, and instead they imply people don’t like being told how to experience the museum. Also, after discovering that curator's do indeed design museum's with intended structures and narratives, yet they are actively ignored by most visitors, we want to implement into our design a way to help express the curators "flow." Finally, while the theme "Conversation is a better avenue of information" is an extremely insightful theme because while we wont be able to implement conversations into our design (for the fear of making it feel bloated), it helps make aware that the social aspect of the museum experience shouldn't ignored. 
+
+![](/img/AffinityDiagram.jpeg)
+
 ## Task Analysis Questions
 
 1. *Who is going to use the design?* 
