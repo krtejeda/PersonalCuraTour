@@ -6,12 +6,12 @@ subtitle: PAGE NOT FOUND
 
 My name is K-lv-n. I have the following qualities:
 
-- [CENSORED]
+- **[CENSORED]**
 
-My name is J-l--. I have the following qualities:
+My name is J-l- -. I have the following qualities:
 
--[REDACTED]
+- **[REDACTED]**
 
-My name is G--ffr-(?-). I have the following qualities:
+My name is G- -ffr-(?-). I have the following qualities:
 
--[404 Error]
+- **[404 Error]**
