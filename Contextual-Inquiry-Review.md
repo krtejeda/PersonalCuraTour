@@ -38,7 +38,7 @@ In terms of our process in identifying these themes, we first collected insights
 
 Despite the bottom-up approach to our affinity diagram, we discovered themes both reaffirm and clarify some of the issues we described in our project proposal, specifically the themes: “Interest in Familiarity” and “Control and pacing." These particular themes will be interesting to design for because they don’t express a need for guidance, and instead they imply people don’t like being told how to experience the museum. Also, after discovering that curator's do indeed design museum's with intended structures and narratives, yet they are actively ignored by most visitors, we want to implement into our design a way to help express the curator's "flow." Finally, while the theme "Conversation is a better avenue of information" is an extremely insightful theme because while we wont be able to implement conversations into our design (for the fear of making it feel bloated), it helps make aware that the social aspect of the museum experience shouldn't ignored. 
 
-![](/img/AffinityDiagram.jpeg)
+![](~/img/AffinityDiagram.jpeg)
 
 ## Task Analysis Questions
 
