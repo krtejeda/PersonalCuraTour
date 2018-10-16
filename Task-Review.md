@@ -44,8 +44,8 @@ Sylvester saw an advertisement posted on a cork board at school for a new exhibi
 
 ## Sketches
 
-![](https://krtejeda.github.io/PersonalCuraTour/img/brainstorm1.jpg)
+![](/img/brainstorm1.jpg)
 
-![](https://krtejeda.github.io/PersonalCuraTour/img/brainstorm2.jpg)
+![](/img/brainstorm2.jpg)
 
-![](https://krtejeda.github.io/PersonalCuraTour/img/brainstorm3.jpg)
+![](/img/brainstorm3.jpg)
