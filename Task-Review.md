@@ -21,7 +21,7 @@ Alecksa is a high school student in an introductory art class where she encounte
 
 *new task / hard difficulty*
 	
-Jorge is a high school student on a class field trip to the art museum. His assignment is to learn about how art has changed throughout time. As he moves through the museum from piece to piece, connections between the art are unveiled to him. This gives him the capacity to link the information he’s learned and build a mental map of the history of these pieces. He enjoys finding new pieces because he is curious about how the art fits into the puzzle he is building in his head. He goes on to write an A+ worthy essay and regularly shares what he learned when some aspect of that relationship comes up in a different social/academic context.
+Jorge is a high school student on a class field trip to the art museum. His assignment is to learn about how art has changed throughout time. As he moves through the museum from piece to piece, he tries to look for connections between the art pieces he has seen. This gives him the capacity to link the information he’s learned and build a mental map of the history of these pieces. He enjoys finding new pieces because he is curious about how the art fits into the puzzle he is building in his head. However, he wishes that finding these connections were easier since he often has to remember facts from one art pieces to another to identify them.  Nonetheless, he goes on to write an A+ worthy essay and regularly shares what he learned when some aspect of that relationship comes up in a different social/academic context.
 	
 ## Understand the art 
 	
@@ -40,7 +40,7 @@ Jehnifer aka Jehn aka jen aka j-n is curious in understanding how the narrative 
 
 *existing task / easy difficulty*
 
-Sylvester saw an advertisement posted on a cork board at school for a new exhibit at WCMA. This sparked an interest in visiting the museum despite not being a big museum person. Because Sylvester is in school, he doesn’t have a lot of time to visit but made some time during his busy schedule to see the new exhibit. Immediately upon arrival Sylvester’s only desire is to find the exhibit that he saw on the advertisement. Since he hasn’t been to the space often he is unsure where to go and is worried that he won’t find the exhibit with plenty of time to enjoy it during his freetime.  Sylvester also has a terrible sense of direction and hates maps, so he has trouble getting to where he wants to go.
+Sylvester saw an advertisement posted on a cork board at school for a new exhibit at WCMA. This sparked an interest in visiting the museum despite not being a big museum person. Because Sylvester is in school, he doesn’t have a lot of time to visit but made some time during his busy schedule to see the new exhibit. Immediately upon arrival Sylvester’s only desire is to find the exhibit that he saw on the advertisement. Since he hasn’t been to the space often he is unsure where to go and is worried that he won’t find the exhibit with plenty of time to enjoy it during his freetime.  Sylvester also has a terrible sense of direction and hates maps, so he has trouble getting to where he wants to go.  This makes accomplishing his goal especially hard, and is compounded by the fact that he hasn't really been to WCMA, so he does not know where anything is.  
 
 ## Sketches
 
