@@ -79,13 +79,14 @@ The AR Smart glasses insert visual and text elements into the user’s field-of-
 
 The glasses’ augmented reality interface could superimpose arrows on the space a user could follow to navigate to a piece they want to access.  This would reduce confusion and frustration incurred by visitors as they try to navigate a foreign maze of galleries, improving accessibility of the museum for all. 
 
-### Task 2: Experience the museum as intended (B)  
+###  Task 2: Learn about the relationship between pieces (B) 
+
+Art pieces the glasses deem interesting, or along the curator’s suggested path, could feature virtual augmented reality buttons that the user could click to toggle the expansion of interesting facts, in particular those that relate the piece to other works of art nearby.  If interested, they could step in closer for a more detailed look.
+
+### Task 3: Experience the museum as intended (C)  
 
 The same augmented reality arrows could be used to suggest the curator’s suggested path, if the user so desires.  All these preferences could be adjusted either via connected phone app or through voice commands prior and during the user’s visit. 
 
-###  Task 3: Learn about the relationship between pieces (C) 
-
-Art pieces the glasses deem interesting, or along the curator’s suggested path, could feature virtual augmented reality buttons that the user could click to toggle the expansion of interesting facts, in particular those that relate the piece to other works of art nearby.  If interested, they could step in closer for a more detailed look.
 
 ![](https://krtejeda.github.io/PersonalCuraTour/img/glasses2.jpg)
 
