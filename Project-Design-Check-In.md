@@ -68,3 +68,33 @@ When a user has been standing at a piece for an extended period of time, the wat
 When the user just wants to explore the museum free from outside pressure then they may chose to enter the explore mode. In this mode the watch displays a map of the museum which you can scroll to zoom in to the map. The map would also allow the user to choose a location and receive navigation to that spot. 
 
 ![](https://krtejeda.github.io/PersonalCuraTour/img/WatchTask4.png)
+
+# Augmented Reality Smart Glasses
+
+The AR Smart glasses insert visual and text elements into the user’s field-of-vision naturally as they navigate the museum and accomplish their selected tasks, which the watch’s software can prioritize based on pre-made selections by the user.  Due to the superimposed nature of the information, the AR glasses could be particularly effective in providing information that is spatial in nature, such as navigation; the glasses could plant directions on the physical space, aiding tasks such as navigation to a specific piece, or following the route guidance of a curator.  The glasses would also incorporate software that would constantly adjust based on the user’s walking patterns and preselected preferences to personalize the messages it displays.  It could identify, for example, the eye-movement patterns of the user to hone in on what kinds of art the user is particularly attracted by, and follow up on this by suggesting certain works of art to highlight as the user passes by them while proffering interesting facts about these works.  By maintaining its content in a visitor’s field-of-vision, the glasses would enable each visitor to have a highly personalized curatorial experience while remaining fully-engaged with the space of the museum.  The user’s attention could be simultaneously on the glasses’ interface and the museum, since both would be seamlessly blended into one field of vision.  An added bonus afforded by the glasses’ highly compact nature is that their use would not interfere with the experience of others who would be navigating the museum at the same time, as everyone could have their own independent view of the museum based on their preferences, without affecting the experience of any other user.  
+
+![](https://krtejeda.github.io/PersonalCuraTour/img/glasses1.jpg)
+
+### Task 1: Navigate to a new exhibit (A)
+
+The glasses’ augmented reality interface could superimpose arrows on the space a user could follow to navigate to a piece they want to access.  This would reduce confusion and frustration incurred by visitors as they try to navigate a foreign maze of galleries, improving accessibility of the museum for all. 
+
+### Task 2: Experience the museum as intended (B)  
+
+The same augmented reality arrows could be used to suggest the curator’s suggested path, if the user so desires.  All these preferences could be adjusted either via connected phone app or through voice commands prior and during the user’s visit. 
+
+###  Task 3: Learn about the relationship between pieces (C) 
+
+Art pieces the glasses deem interesting, or along the curator’s suggested path, could feature virtual augmented reality buttons that the user could click to toggle the expansion of interesting facts, in particular those that relate the piece to other works of art nearby.  If interested, they could step in closer for a more detailed look.
+
+![](https://krtejeda.github.io/PersonalCuraTour/img/glasses2.jpg)
+
+### Task 4: Understand the art (D) 
+
+Once the user gets closer to an art piece, the glasses could switch modes, presenting expandable text, video, and audio blurbs that would provide more information about the pieces.  The glasses could enhance explanations of interesting details in the art pieces by directly highlighting them in the users’ field of vision, accompanied by explanatory text that could be toggled.  This makes it easy for users to find and understand cool features about art.
+
+### Task 5: Explore the museum (E) 
+
+Lastly, if the user is in an exploratory mode, the glasses could prompt users on nearby art pieces that may be interesting, based on a user’s browsing patterns, eye movements, and interactions with the blurbs it presents.  This could be relayed in an unobtrusive bar of translucent text at the bottom of the screen.
+
+
