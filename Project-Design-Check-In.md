@@ -1,5 +1,5 @@
 
 ---
-title: Project Design Check-In
 layout: page
+title: Project Design Check-In
 ---
