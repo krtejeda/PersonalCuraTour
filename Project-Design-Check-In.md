@@ -60,7 +60,7 @@ The watch will help a user navigate to a new exhibit if desired. From a menu scr
 
 ### Task 3: Understand the art
 
-When a user has been standing at a piece for an extended period of time, the watch will gently vibrate and display a prompt “View more info?” which will provide options “yes” and “no” for the user. If the user selects yes then a screen of text about the piece will appear and the user may scroll through the information on the screen. If the user selects no then the user resumes 
+When a user has been standing at a piece for an extended period of time, the watch will gently vibrate and display a prompt “View more info?” which will provide options “yes” and “no” for the user. If the user selects yes then a screen of text about the piece will appear and the user may scroll through the information on the screen. If the user selects no then the user resumes. 
 ![](https://krtejeda.github.io/PersonalCuraTour/img/WatchTask3.png)
 
 ### Task 4: Explore the museum 
