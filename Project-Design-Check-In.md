@@ -99,3 +99,23 @@ Once the user gets closer to an art piece, the glasses could switch modes, prese
 Lastly, if the user is in an exploratory mode, the glasses could prompt users on nearby art pieces that may be interesting, based on a user’s browsing patterns, eye movements, and interactions with the blurbs it presents.  This could be relayed in an unobtrusive bar of translucent text at the bottom of the screen.
 
 
+# Mobile App and Earphone Design
+
+This is the design for the smartphone app. The “hero function” or main avenue for content is through audio, so a pair of headphones will be needed alongside the phone. The idea is that the phone serves as a hub for other content that complements the audio experience like a map, audio transcriptions, and visual art connections. The design is audio focused because we want the user’s attention to be on the art, not their phone. The overall vision for this design is that once a user decides to go on a guided experience or not, they are free to move through the museum and look at art. If user chooses a guided experience, they are recommended what piece to move onto next based on how the curator intended the gallery to be experienced. In both unguided or guided experiences, whenever the user spends time at a piece of art, audio descriptions recorded by the curators automatically start play to accompany the user’s experience and engagement with the art. The goal is for art understanding and engagement to be a seamless and effortless. We want it to feel like you have the curator right by your side giving you a personal tour.
+	
+![](img/PhoneTasks.png)	
+### Task 1: Explore the museum
+
+Represented by pictures 1 and 2. When the user is about to begin their museum experience, they have the option to choose preset experiences designed by museum curators. These experiences are designed to encourage users to traverse and visit art that they otherwise might not have found. These experiences are non-binding meaning you can always take a detour and visit any other art you find interesting. However, if the user prefers, they can also choose a “free roam” experience if they just want the audio content and not the guidance. 
+
+### Task 2: Experience museum as intended
+
+Represented by picture 2. This task is only available when the user chooses a guided experience. Guidance arrows appear on the smartphone app that outline how the curator intended for the exhibit to be traversed. Audio content from the curator that designed the exhibit will help blend the art pieces together, helping form one coherent experience for the user.
+
+### Task 3: Understand the art
+
+Represented by picture 3. This task is completed by the audio content, which is activated once the user picks a guided experience or the “free roam” experience. The audio is automatically played when you spend enough time at a piece of art. Also, every time you enter a new exhibit, you are introduced to it by the curator of that exhibit so that you are immediately situated and have context for when you start looking at the art pieces. The longer you stay at a piece, different levels of description get played which range from purely descriptive to analytical. The user is free to walk away from the piece at any time which stops the audio from playing. 
+
+### Task 4: Learn about the relationship between pieces
+
+Represented by picture 4. During your museum experience, you will have the option of looking at a map/floor plan of the museum on your phone. It will automatically zoom into the gallery you are at. The app is aware of where each art piece is and represents its location with a “!”. There are lines that connect each of the pieces if the curator decides that they have a relationship. The intensity of the line represents how closely related they are. When you move from one piece to the other, it’ll “unlock”/trigger special curator content that explains the relationship between the two because it assumes that you now have the context to appreciate their connection. You can also just trigger the audio by tapping on the line.
