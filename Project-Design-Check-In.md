@@ -12,6 +12,8 @@ This design is for a smartwatch. The smartwatch will make use of the location of
 
 The watch will first ask the user one to three very brief multiple choice style questions to discern the likes and dislikes of the user generally. One of the questions might be whether or not the user wants to implement this feature. Assuming that they do, (as our contextual inquiry implied that they do) then the watch will use vibration to direct the user toward pieces that they might enjoy. Faster vibrations imply that the user will likely enjoy the piece while slower vibrations indicate they might like the piece less. Once the watch sense that the user has arrived, the vibrations will stop. Once the watch senses that the user is leaving it may occasionally ask the user if they liked the piece, but not necessarily always. This feature will help the watch learn the taste of the user.
 
+![](img\WatchTask1.png)
+
 ### Task 2: Navigate to a new exhibit 
 
 The watch will help a user navigate to a new exhibit if desired. From a menu screen the user could select an exhibits button where they are offered a menu of currently available exhibits and choose one multiple choice style. Then the watch would begin directing the user to the desired exhibit using directions on the screen and a gentle vibration to prompt a direction change. 
