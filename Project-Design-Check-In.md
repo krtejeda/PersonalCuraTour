@@ -106,7 +106,7 @@ This is the design for the smartphone app. The “hero function” or main avenu
 ![](https://krtejeda.github.io/PersonalCuraTour/img/PhoneTasks.png)	
 ### Task 1: Explore the museum
 
-Represented by pictures 1 and 2. When the user is about to begin their museum experience, they have the option to choose preset experiences designed by museum curators. These experiences are designed to encourage users to traverse and visit art that they otherwise might not have found. These experiences are non-binding meaning you can always take a detour and visit any other art you find interesting. However, if the user prefers, they can also choose a “free roam” experience if they just want the audio content and not the guidance. 
+Represented by picture 1. When the user is about to begin their museum experience, they have the option to choose preset experiences designed by museum curators. These experiences are designed to encourage users to traverse and visit art that they otherwise might not have found. These experiences are non-binding meaning you can always take a detour and visit any other art you find interesting. However, if the user prefers, they can also choose a “free roam” experience if they just want the audio content and not the guidance. 
 
 ### Task 2: Experience museum as intended
 
