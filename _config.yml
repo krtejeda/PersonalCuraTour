@@ -32,6 +32,7 @@ navbar-links:
     - Contextual Inquiry Review: "Contextual-Inquiry-Review"
     - Task Review: "Task-Review" 
     - Project Design Check-In: "Project-Design-Check-In"
+    - Project Design Review: "Project-Design-Review"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
