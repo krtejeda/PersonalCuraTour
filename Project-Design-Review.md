@@ -9,7 +9,7 @@ Our design uses a smartwatch paired with audio, played through wireless earbuds,
 
 Our supported tasks are largely motivated by our users’ needs.  We chose to support exploring exhibits as intended by curators after noting the discrepancy--uncovered during our contextual inquiry--between how our student subjects navigated exhibits and the curator’s envisioned path.   The other task, understanding the art, is also highly compelling since again, our student subjects during the contextual inquiry expressed a constant desire for more information about the pieces they viewed.  Both tasks also align well with our original purpose and intent, to create a more personalized, curated experience for museum visitors.  
 
-----------
+----
 
 The specific functionality of the design is as follows: when the user launches the watch app, if they want a curated tour then they are offered a menu several exhibit tours provided by the curators. They can select the desired exhibit tour, after which directions are displayed on the watch face and audio begins to play through paired bluetooth headphones when they arrive at points of interest in the exhibit.  If they simply wish to wander, they can indicate this and the watch will simply deliver a prompt whenever they pause in front of a piece, allowing them to start the audio guide.  They can also set the audio guides to start playing automatically after they spend a certain amount of time in front of a piece.
 
