@@ -13,14 +13,14 @@ Our supported tasks are largely motivated by our users’ needs.  We chose to su
 
 The specific functionality of the design is as follows: when the user launches the watch app, if they want a curated tour then they are offered a menu several exhibit tours provided by the curators. They can select the desired exhibit tour, after which directions are displayed on the watch face and audio begins to play through paired bluetooth headphones when they arrive at points of interest in the exhibit.  If they simply wish to wander, they can indicate this and the watch will simply deliver a prompt whenever they pause in front of a piece, allowing them to start the audio guide.  They can also set the audio guides to start playing automatically after they spend a certain amount of time in front of a piece.
 
-Storyboard 1:
+### Storyboard 1:
 
 ![](https://krtejeda.github.io/PersonalCuraTour/img/storyboard1.jpg)	
 
 In this storyboard, we follow a user as they complete the task of understanding the art. They intend to explore the museum at their own pace, yet would like the addition of the extra description sourced via the curator. The watch detects when the user is at a piece of art and vibrates when there is extra audio available. The user is then prompted to select if they would like to hear the audio. Note that this option is only available because the user chose “manual.” Otherwise, the audio would play automatically when they arrived at the art. The audio then plays audio by the curator, which makes the user very happy.
 
 
-Storyboard 2:
+### Storyboard 2:
 
 ![](https://krtejeda.github.io/PersonalCuraTour/img/storyboard2.jpg)	
 
