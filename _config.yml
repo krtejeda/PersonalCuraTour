@@ -34,7 +34,6 @@ navbar-links:
     - Project Design Check-In: "Project-Design-Check-In"
     - Project Design Review: "Project-Design-Review"
     - Looking to Understand: "Looking-To-Understand"
-    - Looking to Understand - Presentation: "small_medium presentation-2"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
