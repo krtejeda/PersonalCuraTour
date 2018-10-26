@@ -99,11 +99,11 @@ Art pieces the glasses deem interesting, or along the curator’s suggested path
 
 ![](https://krtejeda.github.io/PersonalCuraTour/img/glasses2.jpg)
 
-#### Task 4: Understand the art (D) 
+#### Task 3: Understand the art (D) 
 
 Once the user gets closer to an art piece, the glasses could switch modes, presenting expandable text, video, and audio blurbs that would provide more information about the pieces.  The glasses could enhance explanations of interesting details in the art pieces by directly highlighting them in the users’ field of vision, accompanied by explanatory text that could be toggled.  This makes it easy for users to find and understand cool features about art.
 
-#### Task 5: Explore the museum (E) 
+#### Task 4: Explore the museum (E) 
 
 Lastly, if the user is in an exploratory mode, the glasses could prompt users on nearby art pieces that may be interesting, based on a user’s browsing patterns, eye movements, and interactions with the blurbs it presents.  This could be relayed in an unobtrusive bar of translucent text at the bottom of the screen.
 
