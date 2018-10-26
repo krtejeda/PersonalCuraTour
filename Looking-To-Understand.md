@@ -54,6 +54,86 @@ Our affinity diagramming and contextual inquiries both surprisingly reaffirmed a
 
 11. *What happens when things go wrong?* People are okay when they navigate an unintentional way through a museums, and as the curator noted, this is often expected. However in the Dance We Must exhibit the pieces were set up deliberately so that the visitor would get through them in chronological order.  When the visitor goes the wrong direction, an element of the exhibit--in particular, continuity--is lost.  Additionally, when people are not able to glean sufficient detail about a piece they have viewed, they often feel confused and unsatisfied.  Our design would aim to support people who want to navigate through the museum in a logical progression, even allowing them to pick up where they left off, or to simply appreciate pieces on an individual level independent from the larger context.   
 
+## Proposed Design Sketches 
+
+### Watch App Design
+
+This design is for a smartwatch. The smartwatch will make use of the location of the visitor in the museum as well as have a map of the museum that includes the current locations of all the pieces in the museum. The watch will have mostly brief prompts for visitor input so as to preserve the experience of the museum as one with minimal distractions. The watch will use vibration for prompts and alerts based on location. The smartwatch will have a scrolling feature that is useful for reading more information if the user opts for more information while in the museum. Additionally the watch will learn the likes and dislikes of the user to help them navigate to pieces that they might enjoy. The watch would also have a menu in which the user could choose to complete any task that is plausible based on their location. If the user is in front of a piece of art they may wish to learn more about it, or they may wish to navigate elsewhere. Similarly the user may wish to learn more about art while on their way to a different location. Our design would account for a user being able to pause their navigation and engage in other tasks without disruption of experience. 
+
+#### Task 1: Find art that you like
+
+The watch will first ask the user one to three very brief multiple choice style questions to discern the likes and dislikes of the user generally. One of the questions might be whether or not the user wants to implement this feature. Assuming that they do, (as our contextual inquiry implied that they do) then the watch will use vibration to direct the user toward pieces that they might enjoy. Faster vibrations imply that the user will likely enjoy the piece while slower vibrations indicate they might like the piece less. Once the watch senses that the user has arrived, the vibrations will stop. Once the watch senses that the user is leaving it may occasionally ask the user if they liked the piece, but not necessarily always. This feature will help the watch learn the taste of the user.
+
+![](https://krtejeda.github.io/PersonalCuraTour/img/WatchTask1.png)
+
+#### Task 2: Navigate to a new exhibit 
+
+The watch will help a user navigate to a new exhibit if desired. From a menu screen the user could select an exhibits button where they are offered a menu of currently available exhibits and choose one multiple choice style. Then the watch would begin directing the user to the desired exhibit using directions on the screen and a gentle vibration to prompt a direction change. 
+
+![](https://krtejeda.github.io/PersonalCuraTour/img/WatchTask2.png)
+
+#### Task 3: Understand the art
+
+When a user has been standing at a piece for an extended period of time, the watch will gently vibrate and display a prompt “View more info?” which will provide options “yes” and “no” for the user. If the user selects yes then a screen of text about the piece will appear and the user may scroll through the information on the screen. If the user selects no then the user resumes. 
+![](https://krtejeda.github.io/PersonalCuraTour/img/WatchTask3.png)
+
+#### Task 4: Explore the museum 
+
+When the user just wants to explore the museum free from outside pressure then they may chose to enter the explore mode. In this mode the watch displays a map of the museum which you can scroll to zoom in to the map. The map would also allow the user to choose a location and receive navigation to that spot. 
+
+![](https://krtejeda.github.io/PersonalCuraTour/img/WatchTask4.png)
+
+### Augmented Reality Smart Glasses
+
+The AR Smart glasses insert visual and text elements into the user’s field-of-vision naturally as they navigate the museum and accomplish their selected tasks, which the watch’s software can prioritize based on pre-made selections by the user.  The interface would aim to be unobtrusive and only do as much as augment the visual effect of a museum exhibit. Due to the superimposed nature of the information, the AR glasses could be particularly effective in providing information that is spatial in nature, such as navigation; the glasses could plant directions on the physical space, aiding tasks such as navigation to a specific piece, or following the route guidance of a curator.  The glasses would also incorporate software that would constantly adjust based on the user’s walking patterns and preselected preferences to personalize the messages it displays.  It could identify, for example, the eye-movement patterns of the user to hone in on what kinds of art the user is particularly attracted by, and follow up on this by suggesting certain works of art to highlight as the user passes by them while proffering interesting facts about these works.  By maintaining its content in a visitor’s field-of-vision, the glasses would enable each visitor to have a highly personalized curatorial experience while remaining fully-engaged with the space of the museum.  The user’s attention could be simultaneously on the glasses’ interface and the museum, since both would be seamlessly blended into one field of vision.  An added bonus afforded by the glasses’ highly compact nature is that their use would not interfere with the experience of others who would be navigating the museum at the same time, as everyone could have their own independent view of the museum based on their preferences, without affecting the experience of any other user.  
+
+![](https://krtejeda.github.io/PersonalCuraTour/img/glasses1.jpg)
+
+#### Task 1: Navigate to a new exhibit (A)
+
+The glasses’ augmented reality interface could superimpose arrows on the space a user could follow to navigate to a piece they want to access.  This would reduce confusion and frustration incurred by visitors as they try to navigate a foreign maze of galleries, improving accessibility of the museum for all. 
+
+####  Task 2: Learn about the relationship between pieces (B) 
+
+Art pieces the glasses deem interesting, or along the curator’s suggested path, could feature virtual augmented reality buttons that the user could click to toggle the expansion of interesting facts, in particular those that relate the piece to other works of art nearby.  If interested, they could step in closer for a more detailed look.
+
+#### Task 3: Experience the museum as intended (C)  
+
+The same augmented reality arrows could be used to suggest the curator’s suggested path, if the user so desires.  All these preferences could be adjusted either via connected phone app or through voice commands prior and during the user’s visit. 
+
+
+![](https://krtejeda.github.io/PersonalCuraTour/img/glasses2.jpg)
+
+#### Task 4: Understand the art (D) 
+
+Once the user gets closer to an art piece, the glasses could switch modes, presenting expandable text, video, and audio blurbs that would provide more information about the pieces.  The glasses could enhance explanations of interesting details in the art pieces by directly highlighting them in the users’ field of vision, accompanied by explanatory text that could be toggled.  This makes it easy for users to find and understand cool features about art.
+
+#### Task 5: Explore the museum (E) 
+
+Lastly, if the user is in an exploratory mode, the glasses could prompt users on nearby art pieces that may be interesting, based on a user’s browsing patterns, eye movements, and interactions with the blurbs it presents.  This could be relayed in an unobtrusive bar of translucent text at the bottom of the screen.
+
+
+### Mobile App and Earphone Design
+
+This is the design for the smartphone app. The “hero function” or main avenue for content is through audio, so a pair of headphones will be needed alongside the phone. The idea is that the phone serves as a hub for other content that complements the audio experience like a map, audio transcriptions, and visual art connections. The design is audio focused because we want the user’s attention to be on the art, not their phone. The overall vision for this design is that once a user decides to go on a guided experience or not, they are free to move through the museum and look at art. If user chooses a guided experience, they are recommended what piece to move onto next based on how the curator intended the gallery to be experienced. In both unguided or guided experiences, whenever the user spends time at a piece of art, audio descriptions recorded by the curators automatically start play to accompany the user’s experience and engagement with the art. The goal is for art understanding and engagement to be a seamless and effortless. We want it to feel like you have the curator right by your side giving you a personal tour.
+	
+![](https://krtejeda.github.io/PersonalCuraTour/img/PhoneTasks.png)	
+#### Task 1: Explore the museum
+
+Represented by picture 1. When the user is about to begin their museum experience, they have the option to choose preset experiences designed by museum curators. These experiences are designed to encourage users to traverse and visit art that they otherwise might not have found. These experiences are non-binding meaning you can always take a detour and visit any other art you find interesting. However, if the user prefers, they can also choose a “free roam” experience if they just want the audio content and not the guidance. 
+
+#### Task 2: Experience museum as intended
+
+Represented by picture 2. This task is only available when the user chooses a guided experience. Guidance arrows appear on the smartphone app that outline how the curator intended for the exhibit to be traversed. Audio content from the curator that designed the exhibit will help blend the art pieces together, helping form one coherent experience for the user.
+
+#### Task 3: Understand the art
+
+Represented by picture 3. This task is completed by the audio content, which is activated once the user picks a guided experience or the “free roam” experience. The audio is automatically played when you spend enough time at a piece of art. Also, every time you enter a new exhibit, you are introduced to it by the curator of that exhibit so that you are immediately situated and have context for when you start looking at the art pieces. The longer you stay at a piece, different levels of description get played which range from purely descriptive to analytical. The user is free to walk away from the piece at any time which stops the audio from playing. 
+
+#### Task 4: Learn about the relationship between pieces
+
+Represented by picture 4. During your museum experience, you will have the option of looking at a map/floor plan of the museum on your phone. It will automatically zoom into the gallery you are at. The app is aware of where each art piece is and represents its location with a “!”. There are lines that connect each of the pieces if the curator decides that they have a relationship. The intensity of the line represents how closely related they are. When you move from one piece to the other, it’ll “unlock”/trigger special curator content that explains the relationship between the two because it assumes that you now have the context to appreciate their connection. You can also just trigger the audio by tapping on the line.
+
 ## Written Scenarios
 
 **Storyboard 1**
