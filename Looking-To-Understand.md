@@ -4,7 +4,7 @@ title: Looking to Understand
 ---
 
 # Personal CuraTour
-#### *Your museum experience, a bit different.*
+# *Your museum experience, a bit different.*
 
 ## People bound by fate, space, and time to make something wonderful
 
@@ -85,7 +85,7 @@ When the user just wants to explore the museum free from outside pressure then t
 
 ### Augmented Reality Smart Glasses
 
-The AR Smart glasses insert visual and text elements into the user’s field-of-vision naturally as they navigate the museum and accomplish their selected tasks, which the watch’s software can prioritize based on pre-made selections by the user.  The interface would aim to be unobtrusive and only do as much as augment the visual effect of a museum exhibit. Due to the superimposed nature of the information, the AR glasses could be particularly effective in providing information that is spatial in nature, such as navigation; the glasses could plant directions on the physical space, aiding tasks such as navigation to a specific piece, or following the route guidance of a curator.  The glasses would also incorporate software that would constantly adjust based on the user’s walking patterns and preselected preferences to personalize the messages it displays.  It could identify, for example, the eye-movement patterns of the user to hone in on what kinds of art the user is particularly attracted by, and follow up on this by suggesting certain works of art to highlight as the user passes by them while proffering interesting facts about these works.  By maintaining its content in a visitor’s field-of-vision, the glasses would enable each visitor to have a highly personalized curatorial experience while remaining fully-engaged with the space of the museum.  The user’s attention could be simultaneously on the glasses’ interface and the museum, since both would be seamlessly blended into one field of vision.  An added bonus afforded by the glasses’ highly compact nature is that their use would not interfere with the experience of others who would be navigating the museum at the same time, as everyone could have their own independent view of the museum based on their preferences, without affecting the experience of any other user.  
+The AR Smart glasses insert visual and text elements into the user’s field-of-vision naturally as they navigate the museum and accomplish their selected tasks, which the watch’s software can prioritize based on pre-made selections by the user.  The interface would aim to be unobtrusive and only do as much as augment the visual effect of a museum exhibit. Due to the superimposed nature of the information, the AR glasses could be particularly effective in providing information that is spatial in nature, such as navigation; the glasses could plant directions on the physical space, aiding tasks such as navigation to a specific piece, and also introduce new effects introduced by the   The glasses would also incorporate software that would constantly adjust based on the user’s walking patterns and preselected preferences to personalize the messages it displays.  It could identify, for example, the eye-movement patterns of the user to hone in on what kinds of art the user is particularly attracted by, and follow up on this by suggesting certain works of art to highlight as the user passes by them while proffering interesting facts about these works.  By maintaining its content in a visitor’s field-of-vision, the glasses would enable each visitor to have a highly personalized curatorial experience while remaining fully-engaged with the space of the museum.  The user’s attention could be simultaneously on the glasses’ interface and the museum, since both would be seamlessly blended into one field of vision.  An added bonus afforded by the glasses’ highly compact nature is that their use would not interfere with the experience of others who would be navigating the museum at the same time, as everyone could have their own independent view of the museum based on their preferences, without affecting the experience of any other user.  
 
 ![](https://krtejeda.github.io/PersonalCuraTour/img/glasses1.jpg)
 
@@ -96,11 +96,6 @@ The glasses’ augmented reality interface could superimpose arrows on the space
 ####  Task 2: Learn about the relationship between pieces (B) 
 
 Art pieces the glasses deem interesting, or along the curator’s suggested path, could feature virtual augmented reality buttons that the user could click to toggle the expansion of interesting facts, in particular those that relate the piece to other works of art nearby.  If interested, they could step in closer for a more detailed look.
-
-#### Task 3: Experience the museum as intended (C)  
-
-The same augmented reality arrows could be used to suggest the curator’s suggested path, if the user so desires.  All these preferences could be adjusted either via connected phone app or through voice commands prior and during the user’s visit. 
-
 
 ![](https://krtejeda.github.io/PersonalCuraTour/img/glasses2.jpg)
 
@@ -136,13 +131,17 @@ Represented by picture 4. During your museum experience, you will have the optio
 
 ## Written Scenarios
 
+![](https://krtejeda.github.io/PersonalCuraTour/img/storyboard1v2.jpg)
+
 **Storyboard 1**
 
 Charlotte is a museum expert who wants to explore the museum at her own pace, but also wants the option of additional information sourced by the curator. Upon beginning her museum experience she chooses “free roam” where she is not offered any navigation. Then she is asked if she would like the additional auditory information to be played automatically upon arriving at a piece or if she would like to be prompted at each piece for the audio. Charlotte chooses to have the information given to her manually. When Charlotte stands at a piece of art, the watch vibrates, asking her if she wants the additional information to play. The audio begins in her bluetooth headphones and she is able to satiate her need for more information. At the end of Charlotte’s experience, she presses the back button and the watch app prompts her with a question: do you want to share your path? Charlotte chooses yes and is asked to title for her path. She presses save, exits the app, and leaves the museum satisfied. 
 
+![](https://krtejeda.github.io/PersonalCuraTour/img/storyboard2v2.jpg)
+
 **Storyboard 2**
 
-Wilbur is an organized person who wants to methodically explore the museum and learn about the story that relates the art he sees.  He really appreciates museums as an opportunity to learn, and when he gets confused or takes the wrong path through an exhibit, he feels that he isn’t making the most of experience.  With Personal CuraTour, Wilbur has the opportunity to select a guided tour on his smartwatch.  A few of these are made by curators, but the vast majority are crowdsourced by other users who have made their own paths through the museum.  Each tour has tags and a short description discussing its content, as well as ratings from others who have taken the tour.  Happily, Wilbur selects a high-rated tour through the museum and follows the directional prompts that come up on his wrist. The directional arrow alternates with a digital photo of the next piece to provide a visual cue for the destination. He plugs into wireless earbuds at the same time and views contentedly as audio descriptions play in the background, transitioning seamlessly as he walks from piece to piece.  He also has the option to have the audio wait for a set time before starting at each piece, or also to start each audio prompt manually.  Since this tour is highly rated, there is a strong sense of continuity between the pieces viewed and Wilbur greatly enjoys his experience.  He expresses his satisfaction by giving the tour five stars at the end. 
+Wilbur is an organized person who wants to methodically explore the museum and learn about the story that relates the art he sees.  He really appreciates museums as an opportunity to learn, and when he gets confused or takes the wrong path through an exhibit, he feels that he isn’t making the most of experience.  With Personal CuraTour, Wilbur has the opportunity to select a guided tour on his smartwatch.  A few of these are made by curators, but the vast majority are crowdsourced by other users who have made their own paths through the museum.  Each tour has tags and a short description discussing its content, as well as ratings from others who have taken the tour.  Happily, Wilbur selects a high-rated tour through the museum and follows the directional prompts that come up on his wrist.  He plugs into wireless earbuds at the same time and views contentedly as audio descriptions play in the background, transitioning seamlessly as he walks from piece to piece.  He also has the option to have the audio wait for a set time before starting at each piece, or also to start each audio prompt manually.  Since this tour is highly rated, there is a strong sense of continuity between the pieces viewed and Wilbur greatly enjoys his experience.  He expresses his satisfaction by giving the tour five stars at the end. 
 
 ## Storyboards of the Selected Design
 
