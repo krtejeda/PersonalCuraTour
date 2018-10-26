@@ -4,7 +4,7 @@ title: Looking to Understand
 ---
 
 # Personal CuraTour
-# Your museum experience, a bit different.
+# *Your museum experience, a bit different.*
 
 ## People bound by fate, space, and time to make something wonderful
 
