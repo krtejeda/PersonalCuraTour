@@ -4,15 +4,15 @@ title: Looking to Understand
 ---
 
 # Personal CuraTour
-## Your museum experience, a bit different.
+# Your museum experience, a bit different.
 
-### People bound by fate, space, and time to make something wonderful
+## People bound by fate, space, and time to make something wonderful
 
 - Geoffrey: Run-on sentence dealer
 - Julia: emotional support ferret 
 - Kelvin: ProcrastinaTour
 
-### Problem and Solution Overview
+## Problem and Solution Overview
 
 You enter a museum. What’s the first thing you do?...
 
@@ -20,17 +20,17 @@ Different museum visitors have different levels of enthusiasm, experience, and w
 
 We chose to implement the watch app paired with wireless earbuds to accomplish two tasks: encourage exploration as intended by curators/suggested by community members and understanding the art they see. Our design aims to be unobtrusive and seamless, augmenting rather than overpowering the already stimulating experience of visiting a museum, accomplishing tasks that our target audience has shown a need for.
 
-### Design Research Goals, Stakeholders, and Participants
+## Design Research Goals, Stakeholders, and Participants
 
 One of our design research goals was to understand how our users interact with the museum. We performed two traditional contextual inquiries in WCMA on Williams College students: Daphne, a museum novice, and Fred, a museum expert. The purpose for performing these contextual inquiries on students of varying levels of museum experience was so that we could understand the full range of experiences that our users might have. 
 
 Another goal of our design research was to understand the view of one of our stakeholders, museum curators. We performed a retrospective contextual inquiry with Shaggy, a WCMA curator, in an exhibit that they curated. We were interested in learning if and what they perceived visitors to be lacking in the museum experience at WCMA. This method was best because Shaggy was able to walk us through the space and recall their process of designing it. As such, we were able to learn how most exhibits incorporate deliberate but subtle cues that intend to guide visitors in certain directions and along certain narrative messages. 
 
-### Design Research Results and Themes
+## Design Research Results and Themes
 
 Our affinity diagramming and contextual inquiries both surprisingly reaffirmed and clarified some of the issues we anticipated regarding the level of guidance the museum provides and the effectiveness of museum content. The initial major themes that we discovered express that users want relevant and seamless content/context in order to fully understand the art, but that they also value the ability to experience the museum at their own pace. Through considering these themes in our design process, we further reduced and consolidated these major themes which resulted in our interpretation that the problem pertains with our user’s struggle to have complete, intended, and consistent experiences at the museum. We define complete in the objective sense, meaning that users want to encounter the relevant and seamless info that fulfills their inquiries during every art engagement. Intended and consistent experiences are defined by the struggle between a user’s desire to explore at their own pace, but the museum curator’s concern that there is a valuable designed experience that is often ignored by users due to its ambiguity. This tug and pull often results in a fragmented experience that again perpetuates users not having complete experiences. 
 
-### Answers to Task Analysis Questions
+## Answers to Task Analysis Questions
 
 1. *Who is going to use the design?* Our design is intended to be used by people who want to supplement their museum experience with guidance and additional information.
 
@@ -54,7 +54,7 @@ Our affinity diagramming and contextual inquiries both surprisingly reaffirmed a
 
 11. *What happens when things go wrong?* People are okay when they navigate an unintentional way through a museums, and as the curator noted, this is often expected. However in the Dance We Must exhibit the pieces were set up deliberately so that the visitor would get through them in chronological order.  When the visitor goes the wrong direction, an element of the exhibit--in particular, continuity--is lost.  Additionally, when people are not able to glean sufficient detail about a piece they have viewed, they often feel confused and unsatisfied.  Our design would aim to support people who want to navigate through the museum in a logical progression, even allowing them to pick up where they left off, or to simply appreciate pieces on an individual level independent from the larger context.   
 
-### Written Scenarios
+## Written Scenarios
 
 **Storyboard 1**
 
@@ -64,7 +64,7 @@ Charlotte is a museum expert who wants to explore the museum at her own pace, bu
 
 Wilbur is an organized person who wants to methodically explore the museum and learn about the story that relates the art he sees.  He really appreciates museums as an opportunity to learn, and when he gets confused or takes the wrong path through an exhibit, he feels that he isn’t making the most of experience.  With Personal CuraTour, Wilbur has the opportunity to select a guided tour on his smartwatch.  A few of these are made by curators, but the vast majority are crowdsourced by other users who have made their own paths through the museum.  Each tour has tags and a short description discussing its content, as well as ratings from others who have taken the tour.  Happily, Wilbur selects a high-rated tour through the museum and follows the directional prompts that come up on his wrist.  He plugs into wireless earbuds at the same time and views contentedly as audio descriptions play in the background, transitioning seamlessly as he walks from piece to piece.  He also has the option to have the audio wait for a set time before starting at each piece, or also to start each audio prompt manually.  Since this tour is highly rated, there is a strong sense of continuity between the pieces viewed and Wilbur greatly enjoys his experience.  He expresses his satisfaction by giving the tour five stars at the end. 
 
-### Storyboards of the Selected Design
+## Storyboards of the Selected Design
 
 **Storyboard 1**
 
