@@ -34,8 +34,9 @@ navbar-links:
     - Project Design Check-In: "Project-Design-Check-In"
     - Project Design Review: "Project-Design-Review"
     - Looking to Understand: "Looking-To-Understand"
+    - Paper Prototype: "Paper-Prototype"
 
-# Image to show in the navigation bar - image must be a square (width = height)
+# Image to show in the navigation bar - image must be a square (width = heiht)
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/logo.jpg"
 
