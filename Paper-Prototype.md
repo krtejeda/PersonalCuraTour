@@ -9,9 +9,9 @@ Two tasks were represented in our paper prototype: the ability for a user to fre
 
 Upon starting the watch app, the user will have the option to select between these two modes. 
 
-![](https://krtejeda.github.io/PersonalCuraTour/img/watch_6.jpg)
-
 # Free Roam
+
+![](https://krtejeda.github.io/PersonalCuraTour/img/watch_6.jpg)
 
 Suppose the user selects “Free Roam”.  The subsequent screen will allow for a user to select for the audio to begin either automatically at each piece, or at the user’s command.  
 
