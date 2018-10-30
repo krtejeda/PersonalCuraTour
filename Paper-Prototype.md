@@ -2,6 +2,9 @@
 title: Paper Prototype
 layout: page
 ---
+# Overview
+
+![](https://krtejeda.github.io/PersonalCuraTour/img/watch_12.jpg)
 
 Two tasks were represented in our paper prototype: the ability for a user to free roam with audio clip narration in front of pieces, and guided tours made either by curator or other users.  
 
