@@ -11,6 +11,8 @@ Upon starting the watch app, the user will have the option to select between the
 
 ![](https://krtejeda.github.io/PersonalCuraTour/img/watch_6.jpg)
 
+# Free Roam
+
 Suppose the user selects “Free Roam”.  The subsequent screen will allow for a user to select for the audio to begin either automatically at each piece, or at the user’s command.  
 
 ![](https://krtejeda.github.io/PersonalCuraTour/img/watch_3.jpg)
@@ -36,6 +38,8 @@ Once the audio ends, and in between pieces, the watch displays an idle screen th
 ![](https://krtejeda.github.io/PersonalCuraTour/img/watch_8.jpg)
 
 When the user hits exit during “Free Roam”, the option to save the tour for other users to enjoy is presented. 
+
+# Guided Tour
 
 ![](https://krtejeda.github.io/PersonalCuraTour/img/watch_9.jpg)
 
