@@ -8,10 +8,9 @@ We need a table of each heuristic violation and how we will/did address them - d
 Updated photos of the paper prototype - just the pieces of the prototype that we revised 
 
 
-| Heuristic Broken |  What’s wrong | How we will fix | Severity
+| Heuristic Broken |  What’s wrong | How we will fix | Severity |
 | -------- | -------- | -------- | -------- | 
-| Speak Users Language | “Audio after” - after what? Fix - we will add a statement clarifying it is after a number of seconds in front of a piece of art 
-We will add a statement clarifying it is after a number of seconds in front of a piece of art | 2 |
+| Speak Users Language | “Audio after” - after what? Fix - we will add a statement clarifying it is after a number of seconds in front of a piece of art  | We will add a statement clarifying it is after a number of seconds in front of a piece of art | 2 |
 | -------- | -------- | -------- | -------- | 
 | Control and Freedom/Real World Mapping | “Back one screen should be option rather than back to start” 
 “Replace arrow with home icon” | Clarify options for home and back one screen
