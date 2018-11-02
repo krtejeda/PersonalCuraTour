@@ -13,7 +13,7 @@ Will Downs (from Amarteurs), Anjali Pai (from Amarteurs), and Julia Mini facilit
 
 ![](https://krtejeda.github.io/PersonalCuraTour/img/he3.jpeg)
 
-The following table contains a summary of our critiques and how we will address them in our final design.
+The following table contains a summary of our critiques and how we will address them in our final design, as well as listing of the associated corrections we have made to our paper prototypes.  The associated images are posted below and labeled according to the 
 
 | Heuristic Broken |  What’s wrong | How we will fix | Severity | Image | 
 | -------- | -------- | -------- | -------- | -------- | 
@@ -32,5 +32,8 @@ The following table contains a summary of our critiques and how we will address 
 | Control and Freedom | “Should have a “clear” button on title input screen” | Will add clear button | 1 | G |
 | -------- | -------- | -------- | -------- | -------- | 
 
+![](https://krtejeda.github.io/PersonalCuraTour/img/prototypeEdits.jpg)
+
+The small issues we revised include the 
 
 
