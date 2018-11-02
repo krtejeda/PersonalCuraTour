@@ -5,13 +5,13 @@ title: Heuristic Evaluation
 
 Noah Nsangou (from Amarteurs), Kelvin Tejeda, and Geoffrey Lu conducted the first evaluation posted below.
 
-![](https://krtejeda.github.io/PersonalCuraTour/img/he1.jpg)
+![](https://krtejeda.github.io/PersonalCuraTour/img/he1.jpeg)
 
 Will Downs (from Amarteurs), Anjali Pai (from Amarteurs), and Julia Mini facilitated the second and third evaluations posted below.
 
-![](https://krtejeda.github.io/PersonalCuraTour/img/he2.jpg)
+![](https://krtejeda.github.io/PersonalCuraTour/img/he2.jpeg)
 
-![](https://krtejeda.github.io/PersonalCuraTour/img/he3.jpg)
+![](https://krtejeda.github.io/PersonalCuraTour/img/he3.jpeg)
 
 The following table contains a summary of our critiques and how we will address them in our final design.
 
