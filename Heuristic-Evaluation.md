@@ -10,7 +10,7 @@ The following table contains a summary of our critiques and how we will address 
 | -------- | -------- | -------- | -------- | 
 | Speak Users Language | “Audio after” - after what? Fix - we will add a statement clarifying it is after a number of seconds in front of a piece of art  | We will add a statement clarifying it is after a number of seconds in front of a piece of art | 2 |
 | -------- | -------- | -------- | -------- | 
-| Control and Freedom/Real World Mapping | “Back one screen should be option rather than back to start”  “Replace arrow with home icon” | Clarify options for home and back one screen \n We will replace the arrow with a home icon | 1 |
+| Control and Freedom/Real World Mapping | “Back one screen should be option rather than back to start”  “Replace arrow with home icon” | Clarify options for home and back one screen. We will replace the arrow with a home icon | 1 |
 | -------- | -------- | -------- | -------- | 
 | Conceptual Model | “What is a path and what does it consist of? Where can I see my tours?” | This is an additional feature that we do not currently plan to provide | 2 - 3 | 
 | -------- | -------- | -------- | -------- | 
