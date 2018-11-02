@@ -4,9 +4,7 @@ title: Heuristic Evaluation
 ---
 
 
-We need a table of each heuristic violation and how we will/did address them - don’t need to repeat same issues
-Updated photos of the paper prototype - just the pieces of the prototype that we revised 
-
+The following table contains a summary of our critiques and how we will address them in our final design.
 
 | Heuristic Broken |  What’s wrong | How we will fix | Severity |
 | -------- | -------- | -------- | -------- | 
