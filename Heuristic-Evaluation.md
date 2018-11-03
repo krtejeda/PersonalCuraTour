@@ -13,7 +13,7 @@ Will Downs (from Amarteurs), Anjali Pai (from Amarteurs), and Julia Mini facilit
 
 ![](https://krtejeda.github.io/PersonalCuraTour/img/he3.jpeg)
 
-The following table contains a summary of our critiques and how we will address them in our final design, as well as listing of the associated corrections we have made to our paper prototypes.  The associated images are posted below and labeled according to the 
+The following table contains a summary of our critiques and how we will address them in our final design, as well as listing of the associated corrections we have made to our paper prototypes.  Image below the table contains the edited watch faces and are labeled with letters according to the fixes they correspond to.
 
 | Heuristic Broken |  What’s wrong | Fix | Severity | Image | 
 | -------- | -------- | -------- | -------- | -------- | 
