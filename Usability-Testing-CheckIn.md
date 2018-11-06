@@ -3,6 +3,14 @@ title: Usability Testing Checkin
 layout: page
 ---
 
+# Cognitive Walkthroughs
+
+![](https://krtejeda.github.io/PersonalCuraTour/img/cogWalkthrough1.jpg)
+
+![](https://krtejeda.github.io/PersonalCuraTour/img/cogWalkthrough2.jpg)
+
+## Table with issues and fixes
+
 | Photo of Prototype | Description of Incident | Photo of Revision |
 | -------- | -------- | -------- |
 | A | In our screen for selection of a guided tour, it is not evident that the buttons select for exhibits.  It is not clear from the buttons that what kind of tour is being selected, one that focuses on an exhibit or the entire museum, for example, or even the creator of the tour.  |  X |
@@ -17,7 +25,3 @@ layout: page
 | -------- | -------- | -------- |
 
 ![](https://krtejeda.github.io/PersonalCuraTour/img/cogWalkthroughImg.jpg)
-
-![](https://krtejeda.github.io/PersonalCuraTour/img/cogWalkthrough1.jpg)
-
-![](https://krtejeda.github.io/PersonalCuraTour/img/cogWalkthrough2.jpg)
