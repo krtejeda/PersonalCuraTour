@@ -9,7 +9,7 @@ layout: page
 
 ![](https://krtejeda.github.io/PersonalCuraTour/img/cogWalkthrough2.jpg)
 
-## Table with issues and fixes
+## Issues Uncovered during Walkthrough
 
 | Photo of Prototype | Description of Incident | Photo of Revision |
 | -------- | -------- | -------- |
