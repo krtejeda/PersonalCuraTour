@@ -70,7 +70,7 @@ Aside from flaws in our process itself, the usability test was also instrumental
 
 ![](https://krtejeda.github.io/PersonalCuraTour/img/freeroam1.png)
 
-![](https://krtejeda.github.io/PersonalCuraTour/img/freeroam1.png)
+![](https://krtejeda.github.io/PersonalCuraTour/img/freeroam2.png)
 
 1) select free roam option 
 2) choose automatic audio 
