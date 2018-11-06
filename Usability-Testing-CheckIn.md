@@ -5,7 +5,7 @@ layout: page
 
 # Overview
 
-
+We completed cognitive walkthroughs of our two tasks, as well as a usability test with one user who was moderately experienced with museums.
 
 # Cognitive Walkthroughs
 
@@ -68,9 +68,9 @@ Aside from flaws in our process itself, the usability test was also instrumental
 
 # Task 1: Explore and learn more about pieces
 
-![](https://krtejeda.github.io/PersonalCuraTour/img/freeroam1.jpg)
+![](https://krtejeda.github.io/PersonalCuraTour/img/freeroam1.png)
 
-![](https://krtejeda.github.io/PersonalCuraTour/img/freeroam1.jpg)
+![](https://krtejeda.github.io/PersonalCuraTour/img/freeroam1.png)
 
 1) select free roam option 
 2) choose automatic audio 
@@ -87,8 +87,16 @@ Aside from flaws in our process itself, the usability test was also instrumental
 
 # Task 2: Follow Guided Tour
 
-![](https://krtejeda.github.io/PersonalCuraTour/img/guidedtour.jpg)
+![](https://krtejeda.github.io/PersonalCuraTour/img/guidedtour.png)
 
+1) choose tour option
+2) select tours by curators
+3) choose desired tour, noting rating
+4) choose to have audio manually start
+5) navigate to piece, following directional changes at vibrations
+6) press play audio button to start audio manually
+6) click end tour button
+7) rate tour by scrolling wheel, submit
 
 # Plan for remaining usability tests
 
