@@ -64,8 +64,13 @@ Aside from flaws in our process itself, the usability test was also instrumental
 
 # Prototype Overview
 
+![](https://krtejeda.github.io/PersonalCuraTour/img/overview2.0.jpg)
+
 # Task 1: Explore and learn more about pieces
 
+![](https://krtejeda.github.io/PersonalCuraTour/img/freeroam1.jpg)
+
+![](https://krtejeda.github.io/PersonalCuraTour/img/freeroam1.jpg)
 
 
 # Task 2: Follow Guided Tour
