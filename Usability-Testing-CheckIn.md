@@ -3,6 +3,19 @@ title: Usability Testing Checkin
 layout: page
 ---
 
+# Overview
+
+
+Our first usability test was conducted by two of our team members. One of us solely took notes and recorded the feedback while the other member ran the usability test. We conducted our first usability test on Geneviëve, a studio art major at Williams, in a Schow study room. This participant was ideal because of her visual/aesthetic expertise and willingness to provide constructive feedback. She also spends a lot of time at museums due to her interest in art, so we consider her to be museum adept. The location was ideal because it provided us the freedom to move around and speak freely. 
+
+Our test protocol was as follows. We first introduced ourselves and briefed them on the purpose of this usability test, their role, and our project. We asked if it was okay to collect their feedback via voice recording and note taking and they allowed it. We reassured them that if at anytime they wanted to stop participating, they were free to do so. Next, before we started the testing, we emphasized the importance that she share her thoughts/criticisms about the design of the app, the experience, or anything that wasn’t clear or effective to her. She was made aware that these comments would be used to iterate and improve the design. 
+
+Then we began testing the prototype. She was prompted to imagine that she was in a museum and that she had just opened the app on her watch. We presented her with two tasks: exploring the museum as intended and exploring the museum as they want, and allowed her to explore.  After this point, we stopped giving her further instruction unless she was absolutely stuck, which fortunately never happened. She completed both tasks without any major mishaps, but she did provide feedback through her comments on how the experience could be improved, which we mention later. 
+
+After we finished our usability test, we learned to not underestimate the importance of having smooth and seamless transitions between frames. Our test felt disjointed at some points due to the lag between subsequent frames introduced by physical limitations of our prototype. We felt that this ruined whatever semblance of immersion the user had, and potentially limited the serious feedback they provided. We will organize our frames better so that we can have a smooth testing experience. 
+
+We also learned that it is difficult to elicit the thought processes of the user. They interpreted our desire for audible feedback as having reactionary responses to certain frames, when what we really wanted was the reasoning behind those reactions. We didn’t realize how often we would have to probe the user for more substantive content/feedback. In the future, we will be more clear about the type of feedback that we want by giving an example.
+
 # Cognitive Walkthroughs
 
 ![](https://krtejeda.github.io/PersonalCuraTour/img/cogWalkthrough1.jpg)
