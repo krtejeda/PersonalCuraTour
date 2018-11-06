@@ -45,27 +45,31 @@ After we finished our usability test, we learned to not underestimate the import
 
 We also learned that it is difficult to elicit the thought processes of the user. They interpreted our desire for audible feedback as having reactionary responses to certain frames, when what we really wanted was the reasoning behind those reactions. We didn’t realize how often we would have to probe the user for more substantive content/feedback. In the future, we will be more clear about the type of feedback that we want by giving an example.
 
+*Letters in table below correlate to photos above
+
 | Photo of Prototype | Description of Incident | Severity (if neg) | Revision |
 | -------- | -------- | -------- | -------- |
-| X | In progress - the user was confused as to the meaning of the “in progress” screen most likely due to vagueness or lack of context | 3 | Removed the words “In progress” |
+| D | In progress - the user was confused as to the meaning of the “in progress” screen most likely due to vagueness or lack of context | 3 | Removed the words “In progress” |
 | -------- | -------- | -------- | -------- |
-| X | Scrolling option for in tour experience - not clear exactly what effect scrolling will have. User said she would normally just try this feature to see what would happen. Suggested a couple of possible fixes.  | 3 | We are going to hold off on fixing this to see what other usability tests generate for this feature. |
+| A | Scrolling option for in tour experience - not clear exactly what effect scrolling will have. User said she would normally just try this feature to see what would happen. Suggested a couple of possible fixes.  | 3 | We are going to hold off on fixing this to see what other usability tests generate for this feature. |
 | -------- | -------- | -------- | -------- |
-| X | “Community Experience” text on menu for tours was not clear. User did not know what that meant and suggested a different way to differentiate between curator and user created tours. | 2 | Created a new screen to choose between curator and user submitted tours. |
+| C | “Community Experience” text on menu for tours was not clear. User did not know what that meant and suggested a different way to differentiate between curator and user created tours. | 2 | Created a new screen to choose between curator and user submitted tours. |
 | -------- | -------- | -------- | -------- |
-| X | User noted a lot of info on the navigation screen compared to others, user suggested clustering the information that is related, art and navigation elements.  | 2 | Move the distance to the piece to be closer to the arrow for directions so that all the navigational elements are clustered together. |
+| photo below | User noted a lot of info on the navigation screen compared to others, user suggested clustering the information that is related, art and navigation elements.  | 2 | Move the distance to the piece to be closer to the arrow for directions so that all the navigational elements are clustered together. |
 | -------- | -------- | -------- | -------- |
-| X | User struggled to know what to do and expect when the audio ended.  It was not clear where the start and end occured after the audio played; this may be more clear if there were actual audio playing, and the context was more clear since the watch face should transition automatically in a real version of the app, but did not in this case.   | 2 | No changes, will wait to see if other users have different response, will see if more realistic audio in future tests (see below) has an effect. |
+| B | User struggled to know what to do and expect when the audio ended.  It was not clear where the start and end occured after the audio played; this may be more clear if there were actual audio playing, and the context was more clear since the watch face should transition automatically in a real version of the app, but did not in this case.   | 2 | No changes, will wait to see if other users have different response, will see if more realistic audio in future tests (see below) has an effect. |
 | -------- | -------- | -------- | -------- |
 
 Aside from flaws in our process itself, the usability test was also instrumental in uncovering flaws in our design.  These are detailed below on the table, but were, in this case, primarily flaws in the user interface.   There were flaws identified in a variety of areas.  Selecting tours elicited confusion when it wasn't clear who made the tours.  Within the tour, our user was confused by the “in progress” screen, which was pointed out due to a lack of context for the text.  In response, we removed the text underneath the picture, but also noted that this lack of context could also be due to the isolated nature of the test.  The scrolling feature that allows users to view the history of their pieces during their tour was also not properly understood, perhaps due to the way in whcih it was drawn as the cues we design relied on subtle shadowing effects not apparent on our prototype.  In between pieces during the guided tour, our user suggested better organization of the information, and lastly, the user also felt that what to do after the audio was confusing.  We fixed some of these design errors, and left others as they were for furture testing.  The changes can be seen in the overall prototype view below.
 
 # Prototype Overview
 
-
 # Task 1: Explore and learn more about pieces
 
+
+
 # Task 2: Follow Guided Tour
+
 
 
 # Plan for remaining usability tests
