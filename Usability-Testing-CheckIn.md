@@ -13,7 +13,7 @@ layout: page
 | -------- | -------- | -------- |
 | D | The end experience button should be an ‘x’ instead of an arrow, to more graphically correspond with the action being executed | X |
 | -------- | -------- | -------- |
-| E | The user might want the option to enter the title of the tour differently--for example, to enter the title via voice input.  We will not make this change because it would disrupt the quiet environment of a museum  | No revision needed |
+| E | The user might want the option to enter the title of the tour differently--for example, to enter the title via voice input.  We will not make this change because it would disrupt the quiet environment of a museum  | No revision made |
 | -------- | -------- | -------- |
 
 ![](https://krtejeda.github.io/PersonalCuraTour/img/cogWalkthroughImg.jpg)
