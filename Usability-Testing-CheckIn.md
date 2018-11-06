@@ -27,7 +27,7 @@ layout: page
 ![](https://krtejeda.github.io/PersonalCuraTour/img/cogWalkthroughImg.jpg)
 
 
-# Plan for additional tests
+# Plan for remaining usability tests
 
 Our plan for the remainder of the usability testing is to target several different user demographics as they relate to level of prior experience.  The test we have already done focused on an individual who had a moderate level of experience with museums.  She was a studio art major, implying that she had a higher sense of aesthetics, as stated, but was not highly experienced with museums.  This means that she had valuable insights from the perspective of an individual who has moderate experience with museums, but is not a total expert.  To cover the two other user bases that we are interested in, we will also try to conduct a test on someone who is an expert at museums, or is at least someone who has gone often to many different museums.  This will allow us to hear the views of someone who has lots of prior experience with exhibits, knows the mode of interaction desired, and even potentially has used other types of MuseTech and will be able to make useful contrasts.  Lastly, we will also seek out an inexperienced user to test upon.  This will provide insight with how a user with less preconceptions may view the prototype, and how it may help them relate to art.
 
