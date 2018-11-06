@@ -4,6 +4,6 @@ layout: page
 ---
 
 
-![](PersonalCuraTour/img/cogWalkthrough1.jpg)
+![](https://krtejeda.github.io/PersonalCuraTour/img/cogWalkthrough1.jpg)
 
-![](PersonalCuraTour/img/cogWalkthrough2.jpg)
+![](https://krtejeda.github.io/PersonalCuraTour/img/cogWalkthrough2.jpg)
