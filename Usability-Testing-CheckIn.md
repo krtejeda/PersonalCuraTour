@@ -3,7 +3,6 @@ title: Usability Testing Checkin
 layout: page
 ---
 
-| ---- | ---- | ---- | 
 | Photo of Prototype | Description of Incident | Photo of Revision |
 | -------- | -------- | -------- |
 | A | In our screen for selection of a guided tour, it is not evident that the buttons select for exhibits.  It is not clear from the buttons that what kind of tour is being selected, one that focuses on an exhibit or the entire museum, for example, or even the creator of the tour.  |  X |
