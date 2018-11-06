@@ -72,9 +72,22 @@ Aside from flaws in our process itself, the usability test was also instrumental
 
 ![](https://krtejeda.github.io/PersonalCuraTour/img/freeroam1.jpg)
 
+1) select free roam option 
+2) choose automatic audio 
+3) designate audio start after 5 seconds
+4) exploring in progress screen as user browses between pieces
+5) vibration when user arrives and stops at piece, piece appears on display, audio plays after 5 seconds
+6) exploring in progress screen, able to scroll to view past pieces visited
+7) vibration when user arrives and stops at piece, audio plays after 5 seconds
+8) exploring in progress screen, user ends tour
+9) error catching 
+10) option to save tour - if yes
+11) user is able to enter name by drawing letters
+
 
 # Task 2: Follow Guided Tour
 
+![](https://krtejeda.github.io/PersonalCuraTour/img/guidedtour.jpg)
 
 
 # Plan for remaining usability tests
