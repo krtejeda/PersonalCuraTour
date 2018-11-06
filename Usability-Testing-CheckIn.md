@@ -30,6 +30,9 @@ layout: page
 
 ![](https://krtejeda.github.io/PersonalCuraTour/img/cogWalkthroughImg.jpg)
 
+![](https://krtejeda.github.io/PersonalCuraTour/img/cogWalkthroughFix.jpg)
+
+
 # Usability Test 1
 
 Our first usability test was conducted by two of our team members. One of us solely took notes and recorded the feedback while the other member ran the usability test. We conducted our first usability test on Geneviëve, a studio art major at Williams, in a Schow study room. This participant was ideal because of her visual/aesthetic expertise and willingness to provide constructive feedback. She also spends a lot of time at museums due to her interest in art, so we consider her to be museum adept. The location was ideal because it provided us the freedom to move around and speak freely. 
