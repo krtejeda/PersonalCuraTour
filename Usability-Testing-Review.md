@@ -25,10 +25,13 @@ The participant for our third usability test was Kwintïn, an economics major at
 
 After this test, we revised our title writing screen for tour creation to have the option for both drawing letters and speaking. We modeled this after the way Apple does it for their other applications so that we could be consistent with writing methods a user would be familiar with. We also added a screen where users could review and edit the art that they visited during tour creation before they decided on uploading the tour. 
 
-# Table of Revisions
+# Overview of Revised Prototype
 
 ![](https://krtejeda.github.io/PersonalCuraTour/img/overview3.jpg)
 
+# Table of Revisions
+
+Labels associate with the overview photo above.
 
 | Photo of Prototype | Description of Incident | Severity (if neg) | Revision |
 | ----- | ----- | ----- | ----- |
