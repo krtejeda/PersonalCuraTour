@@ -50,20 +50,21 @@ After this test, we revised our title writing screen for tour creation to have t
 | ----- | ----- | ----- | ----- |
 | X | User confused by scrolling option during tour, not sure what the scrolling should do (it was supposed to allow users to scroll through their history of pieces visited). | 2 | We axed the scrolling option and replaced it with the ability to view a list of pieces visited at the end of the tour (either free roam or guided).  This provides more clarity |
 | X | User understood that once the audio ended, he should turn around and progress to next art piece during explore museum as intended. | ----- | ----- | 
+| ----- | ----- | ----- | ----- |
+| X | User was confused by the tour choice screen because there was only one choice and no clear scroll | 1 | No change made because this was due to the limitations of our paper prototype; we will add clearly marked additional choices in our hifi prototype |
+| ----- | ----- | ----- | ----- |
 
-# Walkthrough
+# Task 1: Guided Tour Walkthrough
 
 ![](https://krtejeda.github.io/PersonalCuraTour/img/task1-usabilityReview.jpg)
 
-# Walkthrough
+# Task 2: Free Roam Walkthrough
 
 ![](https://krtejeda.github.io/PersonalCuraTour/img/task2-usabilityReview.jpg)
 
 
 
-| X |User was confused by the tour choice screen because there was only one choice and no clear scroll
-1
-No change made because this was due to the limitations of our paper prototype; we will add clearly marked additional choices in our hifi prototype
+
 
 
 
