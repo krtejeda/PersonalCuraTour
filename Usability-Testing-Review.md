@@ -27,6 +27,9 @@ After this test, we revised our title writing screen for tour creation to have t
 
 # Table of Revisions
 
+![](https://krtejeda.github.io/PersonalCuraTour/img/overview3.jpg)
+
+
 | Photo of Prototype | Description of Incident | Severity (if neg) | Revision |
 | ----- | ----- | ----- | ----- |
 | X | In progress - the user was confused as to the meaning of the “in progress” screen most likely due to vagueness or lack of context | 3 | Removed the words “In progress” |
@@ -48,8 +51,13 @@ After this test, we revised our title writing screen for tour creation to have t
 | X | User confused by scrolling option during tour, not sure what the scrolling should do (it was supposed to allow users to scroll through their history of pieces visited). | 2 | We axed the scrolling option and replaced it with the ability to view a list of pieces visited at the end of the tour (either free roam or guided).  This provides more clarity |
 | X | User understood that once the audio ended, he should turn around and progress to next art piece during explore museum as intended. | ----- | ----- | 
 
+# Walkthrough
 
+![](https://krtejeda.github.io/PersonalCuraTour/img/task1-usabilityReview.jpg)
 
+# Walkthrough
+
+![](https://krtejeda.github.io/PersonalCuraTour/img/task2-usabilityReview.jpg)
 
 
 
