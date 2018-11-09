@@ -55,14 +55,27 @@ Labels associate with the overview photo above.
 | E/F | User was confused by the tour choice screen because there was only one choice and no clear scroll | 1 | No change made because this was due to the limitations of our paper prototype; we will add clearly marked additional choices in our hifi prototype |
 | ----- | ----- | ----- | ----- |
 
-# Task 1: Guided Tour Walkthrough
-
-![](https://krtejeda.github.io/PersonalCuraTour/img/task1-usabilityReview.jpg)
-
-# Task 2: Free Roam Walkthrough
+# Task 1: Free Roam Walkthrough
 
 ![](https://krtejeda.github.io/PersonalCuraTour/img/task2-usabilityReview.jpg)
 
+1) select free roam option 
+2) choose automatic audio 
+3) designate audio start after 5 seconds 
+4) exploring in progress screen as user browses between pieces 
+5) vibration when user arrives and stops at piece, piece appears on display, audio plays after 5 seconds 6) user ends tour      
+
+# Task 2: Guided Tour Walkthrough
+
+![](https://krtejeda.github.io/PersonalCuraTour/img/task1-usabilityReview.jpg)
+
+1) choose tour option 
+2) select tours by curators 
+3) choose desired tour, noting rating 
+4) choose to have audio start after 5 seconds 
+5) navigate to piece, following directional changes at vibrations 
+6) arrive at piece, audio plays after 5 seconds 
+7) reach end of tour, rate tour by scrolling wheel, submit
 
 
 
