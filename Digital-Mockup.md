@@ -10,23 +10,45 @@ Title: Digital Mockup
 
 # Task 1: Guided Tour by Curator
 
-![](https://krtejeda.github.io/PersonalCuraTour/img/mockup1.png =100x20)
+![](https://krtejeda.github.io/PersonalCuraTour/img/mockup1.png)
 
-The user selects 
+The user selects the type of experience desired, as originally planned.  We did modify the other options, including a “create tour” option for those who wish to create their own experience.
 
 ![](https://krtejeda.github.io/PersonalCuraTour/img/mockup2.png)
 
+The user chooses what category of tours desired; either created by curator or by other users.
+
 ![](https://krtejeda.github.io/PersonalCuraTour/img/mockup23.png)
+
+Select tour.  Description of each tour includes star rating, number of ratings, and tags describing the tour—in addition to the title of the tour itself.  User can scroll through possible options.
 
 ![](https://krtejeda.github.io/PersonalCuraTour/img/mockup27.png)
 
+Once tour is selected, user chooses for audio to play either manually or automatically, or for no audio at all.  
+
+![](https://krtejeda.github.io/PersonalCuraTour/img/mockup26.png)
+
+If user choose automatic audio, the user has the option to choose how long the app waits at each art piece before initiating the audio.  Otherwise, this screen is skipped.
+
 ![](https://krtejeda.github.io/PersonalCuraTour/img/mockup20.png)
+
+The app feeds directions to the next piece.
 
 ![](https://krtejeda.github.io/PersonalCuraTour/img/mockup24.png)
 
+At each piece, the watch vibrates and displays the prompt showing the audio clip, allowing the user to click to start if manual mode enabled; otherwise, the user can wait until the audio starts on its own.  Even under automatic mode the audio can be started via button if the user does not want to wait as long.
+
+![](https://krtejeda.github.io/PersonalCuraTour/img/mockup21.png)
+
+When the audio starts playing, the user can pause at any point, and also skip or go back.  This sequence of directions, audio prompt, and audio playing repeats until the sequence of pieces in the tour finishes.  The user can also end the tour at any time by pressing the button at top left.
+
 ![](https://krtejeda.github.io/PersonalCuraTour/img/mockup19.png)
 
+An error-catching screen appears if the user does this.
+
 ![](https://krtejeda.github.io/PersonalCuraTour/img/mockup15.png)
+
+Finally, the user is asked to rate the tour on a 0-5 star scale.
 
 # Task 2: Explore the museum 
 
