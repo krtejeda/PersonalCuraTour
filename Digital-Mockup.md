@@ -48,11 +48,11 @@ When the user approaches the art, since they chose manual, the watch vibrates an
 
 They may also press pause on this screen to pause the track. 
 
-![](https://krtejeda.github.io/PersonalCuraTour/img/mockup15.png)
+![](https://krtejeda.github.io/PersonalCuraTour/img/mockup7.png)
 
 When the user leaves this piece of art their screen will again display the in progress screen.
 
-![](https://krtejeda.github.io/PersonalCuraTour/img/mockup7.png)
+![](https://krtejeda.github.io/PersonalCuraTour/img/mockup15.png)
 
 When the user is done exploring they press end in the top left corner which brings them to the “are you sure” screen.
 
