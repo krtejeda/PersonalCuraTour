@@ -46,12 +46,9 @@ When the audio starts playing, the user can pause at any point, and also skip or
 
 An error-catching screen appears if the user does this.
 
-![](https://krtejeda.github.io/PersonalCuraTour/img/mockup15.png)
-
-Finally, the user is asked to rate the tour on a 0-5 star scale.
-
 ![](https://krtejeda.github.io/PersonalCuraTour/img/mockup25.png)
 
+Finally, the user is asked to rate the tour on a 0-5 star scale.
 
 # Task 2: Explore the museum 
 
