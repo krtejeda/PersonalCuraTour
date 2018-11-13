@@ -10,8 +10,8 @@ Title: Digital Mockup
 During the implementation of the digital mock-up, we were forced to decide on the actual visual identity of our design and the elements that made it up. We were constrained by the watch modality and the technical limitations of screen resolution that it carries to use our space wisely while also not overwhelm the user with information. We referenced Apple’s Apple Watch visual identity documentation and made sure to meet recommendations of having a black background, buttons of at least 52 pixels in width, and high contrast, almost neon, colors. We also implemented the SF Compact Design font, which Apple has tested as a font that is highly readable at small sizes. Our goal with following these recommendations was to make sure we adhered to watch design standards, but also to build something familiar that allows the user to immediately figure out how to use it.
 
 The changes that we made during implementing the digital mock-up were: 
--Added icons to home screen- Icons with different colors help the user realize that these buttons lead to different experiences. 
-- Added text to back buttons - We figured users might forget what the previous screen was
+- Added icons to home screen - Icons with different colors help the user realize that these buttons lead to different experiences. 
+- Added text to back buttons - We figured users might forget what the previous screen was.
 - Overlayed the painting with a play button once that option activates - It was a cool metaphor to have the user press on the icon for audio to play. Also, we were worried about accidental misclicks if it remained in between the back and skip buttons.  
 - Made clear the option to skip to the next piece in the experience: The “skip” icon is usually used in reference to music and audio, so we changed it to words.
 
