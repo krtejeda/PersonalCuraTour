@@ -50,6 +50,9 @@ An error-catching screen appears if the user does this.
 
 Finally, the user is asked to rate the tour on a 0-5 star scale.
 
+![](https://krtejeda.github.io/PersonalCuraTour/img/mockup25.png)
+
+
 # Task 2: Explore the museum 
 
 Our second task is to allow the user to explore the museum as they wish while still being able to gain more information about the art.
