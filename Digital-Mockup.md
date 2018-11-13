@@ -10,7 +10,7 @@ Title: Digital Mockup
 
 # Task 1: Guided Tour by Curator
 
-![](https://krtejeda.github.io/PersonalCuraTour/img/mockup1.png)
+![](https://krtejeda.github.io/PersonalCuraTour/img/mockup1.png =100x20)
 
 The user selects 
 
