@@ -26,7 +26,7 @@ Different museum visitors have different levels of enthusiasm, experience, and w
 
 We chose to implement the watch app paired with wireless earbuds to accomplish two tasks: encourage exploration as intended by curators/suggested by community members and explore the museum as the user wants. Our design aims to be unobtrusive and seamless, augmenting rather than overpowering the already stimulating experience of visiting a museum, accomplishing tasks that our target audience has shown a need for.
 
-Read our full project proposal at [Project Proposal](https://krtejeda.github.io/PersonalCuraTour/Project-Proposal/)
+Read our full project proposal at [Project Proposal](https://krtejeda.github.io/PersonalCuraTour/Project-Proposal/) and watch app design at [Design Review](https://krtejeda.github.io/PersonalCuraTour/Project-Design-Review/).
 
 # Initial Paper Prototype 
 
@@ -110,6 +110,7 @@ Ultimately, our design is far from perfect, and more feedback via testing is alw
 # Appendix of Previous Deliverables
 
 - [Paper Prototype](https://krtejeda.github.io/PersonalCuraTour/Paper-Prototype/)
+- [Design Review](https://krtejeda.github.io/PersonalCuraTour/Project-Design-Review/)
 - [Heuristic Evaluation](https://krtejeda.github.io/PersonalCuraTour/Heuristic-Evaluation/)
 - [Usability Testing Checkin](https://krtejeda.github.io/PersonalCuraTour/Usability-Testing-CheckIn/)
 - [Usability Testing Review](https://krtejeda.github.io/PersonalCuraTour/Usability-Testing-Review/)
