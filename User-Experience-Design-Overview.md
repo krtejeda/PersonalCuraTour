@@ -103,7 +103,7 @@ We also learned that testing helps uncover the true model and flow of the design
 
 Ultimately, our design is far from perfect, and more feedback via testing is always welcomed. We especially would have liked to test our digital mockup to gauge the effect of the significant changes that it incorporated. However, we appreciated the flexibility of the paper prototype because it was easy to incorporate new edits before the next test, allowing us to obtain the most relevant feedback. As a result, we hope that this allowed us to uncover as many design flaws as possible. 
 
-# Appendix to Previous Deliverables
+# Appendix of Previous Deliverables
 
 [Paper Prototype](https://krtejeda.github.io/PersonalCuraTour/Paper-Prototype/)
 [Heuristic Evaluation](https://krtejeda.github.io/PersonalCuraTour/Heuristic-Evaluation/)
