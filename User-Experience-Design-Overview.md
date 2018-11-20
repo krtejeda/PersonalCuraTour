@@ -75,7 +75,7 @@ We retained the critical aspects of our original paper prototype in our final pr
 # Digital Mockup
 
 ![](https://krtejeda.github.io/PersonalCuraTour/img/mockupReview2.png)
-![Walkthrough of the free roam task on our digital mockup]((https://krtejeda.github.io/PersonalCuraTour/img/mockupReview1.png)
+![Walkthrough of the free roam task on our digital mockup](https://krtejeda.github.io/PersonalCuraTour/img/mockupReview1.png)
 
 
 The important aspect of our design was the ability to seamlessly enhance the visitor’s museum experience with relevant context for art pieces, regardless of their decision to explore or navigate through the museum. To support this, we had to make sure that the design was easily interpretable and accessible throughout the museum experience. However, we also didn’t want the design to be a constant distraction so that the museum experience could remain the focus. Luckily, both these goals complement each other and we were able to make a lightweight and effective design.
