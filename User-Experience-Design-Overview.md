@@ -74,6 +74,10 @@ We retained the critical aspects of our original paper prototype in our final pr
 
 # Digital Mockup
 
+![](https://krtejeda.github.io/PersonalCuraTour/img/mockupReview2.png)
+![Walkthrough of the free roam task on our digital mockup]((https://krtejeda.github.io/PersonalCuraTour/img/mockupReview1.png)
+
+
 The important aspect of our design was the ability to seamlessly enhance the visitor’s museum experience with relevant context for art pieces, regardless of their decision to explore or navigate through the museum. To support this, we had to make sure that the design was easily interpretable and accessible throughout the museum experience. However, we also didn’t want the design to be a constant distraction so that the museum experience could remain the focus. Luckily, both these goals complement each other and we were able to make a lightweight and effective design.
 
 Changes we made in response to critique were reflected in the final paper prototype, however some design decisions were made during the implementation of the digital mock-up.  In implementing visual identity, we sought a color palette and font choice that would maximise legibility on a small screen.  To this end we made the following design choices, many based off of Apple's guidelines for Apple Watch visual identity, that apply to both tasks:
