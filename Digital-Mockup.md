@@ -36,7 +36,7 @@ Once tour is selected, user chooses for audio to play either manually or automat
 
 ![](https://krtejeda.github.io/PersonalCuraTour/img/mockup26.png)
 
-If user choose automatic audio, the user has the option to choose how long the app waits at each art piece before initiating the audio.  Otherwise, this screen is skipped.
+If user chose automatic audio, the user has the option to choose how long the app waits at each art piece before initiating the audio.  Otherwise, this screen is skipped.
 
 ![](https://krtejeda.github.io/PersonalCuraTour/img/mockup20.png)
 
