@@ -51,7 +51,7 @@ After our first usability test, we refined our usability test to simulate the mu
 
 The test subjects generally viewed the design positively, but also identified a plethora of smaller design flaws that were unclear. 
 
-![](https://krtejeda.github.io/PersonalCuraTour/img/overview3.jpg)
+![](https://krtejeda.github.io/PersonalCuraTour/img/prototypeEdits.jpg)
 *Labels in the text associate with the overview photo above
 
 Our first test subject, Geneviëve, focused more on the aesthetic aspects of the design.  She generally responded well to the arrangement and layout of the watch application, but had smaller suggestions on the arrangement of the icons and text.  For one thing, she felt that the number indicating the user’s distance from an art piece could be moved closer to the directional arrow, in order to better associate the two. (screen D)  It also felt important for her to clearly be able to select between the guided tours created by other users, versus those made by curators.  Geneviëve was also confused by the scroll bar, and felt that it should be depicted more clearly--this was supposed to allow users to view the history of pieces they had visited, but is something we later removed (screen D/E/F).  Lastly, she was also confused by how to navigate after the audio had ended: "When the audio is over, do I click end?" (screen F)  This contributed to us changing the way in which the interim watch face was arranged--we adjusted how the transitions between the audio occurred. Something to note is that this problem came up again in our second test, upon which we finally overhauled the design to a satisfactory level. Overall, this first test provided a good starting point for our next two.
