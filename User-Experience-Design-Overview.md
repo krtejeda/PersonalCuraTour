@@ -105,10 +105,10 @@ Ultimately, our design is far from perfect, and more feedback via testing is alw
 
 # Appendix of Previous Deliverables
 
-[Paper Prototype](https://krtejeda.github.io/PersonalCuraTour/Paper-Prototype/)
-[Heuristic Evaluation](https://krtejeda.github.io/PersonalCuraTour/Heuristic-Evaluation/)
-[Usability Testing Checkin](https://krtejeda.github.io/PersonalCuraTour/Usability-Testing-CheckIn/)
-[Usability Testing Review](https://krtejeda.github.io/PersonalCuraTour/Usability-Testing-Review/)
-[Prototype Overview](https://krtejeda.github.io/PersonalCuraTour/Digital-Mockup/)
-[User Experience Design Overview](https://krtejeda.github.io/PersonalCuraTour/User-Experience-Design-Overview/)
+- [Paper Prototype](https://krtejeda.github.io/PersonalCuraTour/Paper-Prototype/)
+- [Heuristic Evaluation](https://krtejeda.github.io/PersonalCuraTour/Heuristic-Evaluation/)
+- [Usability Testing Checkin](https://krtejeda.github.io/PersonalCuraTour/Usability-Testing-CheckIn/)
+- [Usability Testing Review](https://krtejeda.github.io/PersonalCuraTour/Usability-Testing-Review/)
+- [Prototype Overview](https://krtejeda.github.io/PersonalCuraTour/Digital-Mockup/)
+- [User Experience Design Overview](https://krtejeda.github.io/PersonalCuraTour/User-Experience-Design-Overview/)
 
