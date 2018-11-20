@@ -51,7 +51,7 @@ After our first usability test, we refined our usability test to simulate the mu
 
 The test subjects generally viewed the design positively, but also identified a plethora of smaller design flaws that were unclear. 
 
-![](https://krtejeda.github.io/PersonalCuraTour/img/prototypeEdits.jpg)
+![](https://krtejeda.github.io/PersonalCuraTour/img/prototypeEdits.JPG)
 *Labels in the text associate with the overview photo above
 
 Our first test subject, Geneviëve, focused more on the aesthetic aspects of the design.  She generally responded well to the arrangement and layout of the watch application, but had smaller suggestions on the arrangement of the icons and text.  For one thing, she felt that the number indicating the user’s distance from an art piece could be moved closer to the directional arrow, in order to better associate the two. (screen D)  It also felt important for her to clearly be able to select between the guided tours created by other users, versus those made by curators.  Geneviëve was also confused by the scroll bar, and felt that it should be depicted more clearly--this was supposed to allow users to view the history of pieces they had visited, but is something we later removed (screen D/E/F).  Lastly, she was also confused by how to navigate after the audio had ended: "When the audio is over, do I click end?" (screen F)  This contributed to us changing the way in which the interim watch face was arranged--we adjusted how the transitions between the audio occurred. Something to note is that this problem came up again in our second test, upon which we finally overhauled the design to a satisfactory level. Overall, this first test provided a good starting point for our next two.
@@ -65,9 +65,11 @@ The full results for our usability tests can be found in our [Usability Testing 
 
 # Final Paper Prototype
 
+![](https://krtejeda.github.io/PersonalCuraTour/img/overview3.jpg)
+*Labels in the text associate with the overview photo above
+
 We retained the critical aspects of our original paper prototype in our final prototype while revising certain aspects according to Nielsen’s heuristics.  Some of the problems that were addressed in the revision of the paper prototype were incorporating a consistent and clear mental model for the  user to understand their affordances in our design. Another thing that became a critical component of the design was ensuring that we allowed the user to always have control over their actions. This involved the addition of  the “No Audio” option for users, the option to skip the piece that they are at in a tour, and the ability to view a history of the pieces visited. One of the largest changes that we made was we distinguished between a free explore option and creating a tour. This option was added to our main screen to clarify exactly what pressing the button will lead to which connects to our general work of clarifying actions possible in our design, in reflection of the notion that not all users will want to upload their tours.  Another change that was made in the final paper prototype was the addition of the choice between input methods for the title of the user generated tour. This adds to the user’s control and accounts for differences in accessibility. The two primary tasks have not changed from the original prototype. Major changes in the free roam task are that the user may choose not to have audio and on the explore screen there is a prompt that says “go find a piece of art”. The major changes in the tour task are that we added a menu so the user can decide between curator created tours and user generated tours, however other than this the task remains the same. 
 
-![](https://krtejeda.github.io/PersonalCuraTour/img/overview3_noLetters.jpg)
 
 # Digital Mockup
 
