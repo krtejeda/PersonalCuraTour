@@ -47,13 +47,11 @@ Our initial test protocol was as follows. We first introduced ourselves and brie
 
 After our first usability test, we refined our usability test to simulate the museum environment more accurately. We had our participants imagine that they were in a museum and that they had just opened the app on there watch. We had pretend art pieces on a wall and prepared a description that one of us would recite to simulate the audio of our system. We presented them with two tasks: exploring the museum as intended and exploring the museum as they want. After this point, we notified them that we would not give further instruction in order to capture how they navigate the interface on their own. They completed both tasks without any major mishaps and thought aloud the whole way through.
 
-
 # Testing Results 
 
 The test subjects generally viewed the design positively, but also identified a plethora of smaller design flaws that were unclear. 
 
 Our first test subject, Geneviëve, focused more on the aesthetic aspects of the design.  She generally responded well to the arrangement and layout of the watch application, but had smaller suggestions on the arrangement of the icons and text.  For one thing, she felt that the number indicating the user’s distance from an art piece could be moved closer to the directional arrow, in order to better associate the two.  It also felt important for her to clearly be able to select between the guided tours created by other users, versus those made by curators.  Lastly, she was also confused by how to navigate after the audio had ended: "When the audio is over, do I click end?"  This contributed to us changing the way in which the interim watch face was arranged--we adjusted how the transitions between the audio occurred. Something to note is that this problem came up again in our second test, upon which we finally overhauled the design to a satisfactory level. Overall, this first test provided a good starting point for our next two.
-
 
 Our second subject, Nüelf, an extremely avid museum goer, uncovered similar details in the design that we had not thought through enough from the perspective of the user.  For one thing, the ambiguity of the transition between subsequent pieces, perhaps partially emergent from the fact that the paper prototype would ostensibly have slower response than an actual smartwatch, threw Nüelf off.  He also wasn’t sure how he could move on to the next piece if he wanted to skip through the current one--a valid confusion since we had implicitly implemented this by allowing the user to fast forward in the audio clip.  Since this initial approach was evidently unclear, we added a button to allow users to skip onto the next piece.  Nüelf also didn’t necessarily want to create a tour with every free roam experience; taking this into account, we removed this default tour creation to a deliberate “create tour” mode in the application.  In general, though, Nüelf resonated with the fundamental idea of the guided tour portion of our app, relating the design to a less-satisfactory experience he had recently had at a museum: “I could really see how the navigation application could be useful.  I went to a museum recently and they had a similar system but where the destinations were all numbers on a small map.  You couldn’t really find each one without walking all over.”
 
@@ -76,7 +74,7 @@ Changes we made in response to critique were reflected in the final paper protot
 - Black background
 - Buttons at least 52 pixels in width, making them easier to tap accurately
 - Color palette comprised of high contrast, neon-like colors, maximising legibility against black background
-- SF Compact Design Font, which is hgihly readable at small screen sizes
+- SF Compact Design Font, which is highly readable at small screen sizes
 
 We also made the following revisions to the design itself for the guided tour option:
 
