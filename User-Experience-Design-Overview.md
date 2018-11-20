@@ -7,6 +7,8 @@ title: User Experience Design Overview
 ## Your museum experience, a bit *more* guided. 
 
 --------------------------
+--------------------------
+--------------------------
 
 # People bound by fate to work on something wonderful
 
