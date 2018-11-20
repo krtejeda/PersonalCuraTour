@@ -13,9 +13,9 @@ Problem and Solution Overview: (1 paragraph)
 
 You enter a museum. What’s the first thing you do?...
 
-Different museum visitors have different levels of enthusiasm, experience, and willingness to explore; yet the physical constraints of museum curation means that there are no ways to flexibly account for these drastically different levels of use. This makes museums less accessible for some, while others may be less engaged due to the implicit fragmentation of content and context. Our goal is to make museum visits more effortless, immersive and complete for everyone, regardless of enthusiasm, motivation, and prior knowledge. This can be done through optional curated or community sourced guidance as well as curated narrative elements that tie together a visitor’s experience.
+Different museum visitors have different levels of enthusiasm, experience, and willingness to explore; yet the physical constraints of museum curation means that there are no ways to flexibly account for these drastically different levels of use. This makes museums less accessible for some, while others may be less engaged due to the implicit fragmentation of content and context. Our goal is to make museum visits more effortless, immersive and complete for everyone, regardless of enthusiasm, motivation, and prior knowledge. This can be done through optional curated or community sourced guidance, as well as curated narrative elements that tie together a visitor’s experience.
 
-We chose to implement the watch app paired with wireless earbuds to accomplish two tasks: encourage exploration as intended by curators/suggested by community members and understanding the art they see. Our design aims to be unobtrusive and seamless, augmenting rather than overpowering the already stimulating experience of visiting a museum, accomplishing tasks that our target audience has shown a need for.
+We chose to implement the watch app paired with wireless earbuds to accomplish two tasks: encourage exploration as intended by curators/suggested by community members and explore the museum as the user wants. Our design aims to be unobtrusive and seamless, augmenting rather than overpowering the already stimulating experience of visiting a museum, accomplishing tasks that our target audience has shown a need for.
 
 # Initial Paper Prototype 
 
