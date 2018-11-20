@@ -6,6 +6,8 @@ title: User Experience Design Overview
 # Personal CuraTour 
 ## Your museum experience, a bit *more* guided. 
 
+--------------------------
+
 # People bound by fate to work on something wonderful
 
 Geoffrey - Run-on sentence kingpin
