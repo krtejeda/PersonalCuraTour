@@ -3,13 +3,18 @@ layout: page
 title: User Experience Design Overview
 ---
 
-Title:  Personal CuraTour - Your museum experience, a bit more different. 
-People & Roles: 
-Geoffrey - Run-on sentence kingpin
-Julia - 4th dimensional support ferret
-Kelvin - ProcrastinaTour XS Max
+# Personal CuraTour 
+## Your museum experience, a bit *more* guided. 
 
-Problem and Solution Overview: (1 paragraph)
+# People bound by fate to work on something wonderful
+
+Geoffrey - Run-on sentence kingpin
+
+Julia - 4th dimensional support ferret
+
+Kelvin - ProcrastinaTour Lvl 2
+
+# Problem and Solution Overview
 
 You enter a museum. What’s the first thing you do?...
 
