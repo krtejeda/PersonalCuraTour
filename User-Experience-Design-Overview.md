@@ -40,9 +40,11 @@ This goal is mainly accomplished through seamless deliverance of audio and navig
 The user has two options upon opening the app: “free roam” or “tour.” These two options reflect our two main tasks: explore the museum as intended and explore the museum whatever way makes sense to you. If the user chooses free roam, they begin exploring the museum at their own pace but have their experience supplemented with appropriate context via audio. The artworks that the user visits are saved so that once they are done, they can save their path, provide a title, and upload it for other visitors to experience what they experienced! On the other hand, if the user chooses a guided tour from the selection of community or curator sourced tours, they are provided navigation instructions for the tour that they selected. These tours are also supplemented with audio to further immerse the user in the experience. Upon completion of a tour, they rate the tour on a scale of one to five stars. 
 
 # Testing Process
+----------------------------
+## Heuristic Evaluation
+Our first experience with usability testing came in class, during heuristic evaluations done with other groups. This process involved both experiencing another groups project and walking through our design with them. During the process, the other group pointed out which specific elements offended a Nielsen heuristic, and we reciprocated this action with their design. A summary of failed heuristics that were discovered in our design can be found at [Heuristic Evaluation](https://krtejeda.github.io/PersonalCuraTour/Heuristic-Evaluation/).
 
-Our first experience with usability testing came in class, during heuristic evaluations done with other groups. Those results are summarized at [Heuristic Evaluation](https://krtejeda.github.io/PersonalCuraTour/Heuristic-Evaluation/).
-
+## Usability Test
 We conducted usability tests on Geneviëve, Nüelf, and Kwintïn. All of our usability tests were conducted by different pairs of two of our team members. One of us took notes and recorded the feedback while the other member ran the usability test.
 
 Our test protocol was to first introduced ourselves and brief them on the purpose of this usability test, their role, and our project. This was followed by asking for their consent to record audio of the interaction. They were told that if they wanted to stop participating at any time, they were free to do so. Next, before we started the testing, we encouraged them to think aloud during their use of the app, audibly sharing their thoughts on the design, the experience, or anything that wasn’t clear or effective to them. After demonstrating this think-aloud process, we further clarified that we were not evaluating them, only our design.
