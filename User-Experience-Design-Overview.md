@@ -31,7 +31,7 @@ Read our full project proposal at [Project Proposal](https://krtejeda.github.io/
 # Initial Paper Prototype 
 
 ![](https://krtejeda.github.io/PersonalCuraTour/img/watch_12.jpg)
-Full version at [Paper Prototype](https://krtejeda.github.io/PersonalCuraTour/Paper-Prototype/)
+Full overview at [Paper Prototype](https://krtejeda.github.io/PersonalCuraTour/Paper-Prototype/)
 
 The goal of our initial design is to be simple and clean, presenting an intuitive interface that makes it easy for the visitor to get started, while also receding into the museum experience so to no obtrude from said experience. 
 
