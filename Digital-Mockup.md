@@ -13,7 +13,7 @@ Title: Digital Mockup
 
 ## Overview Picture
 
-![](https://github.com/krtejeda/PersonalCuraTour/img/overview4.png)
+![](/img/overview4.png)
 
 During the implementation of the digital mock-up, we were forced to decide on the actual visual identity of our design and the elements that made it up. We were constrained by the watch modality and the limitations of screen size that it carries to use our space wisely while also not overwhelm the user with information. We referenced Apple’s Apple Watch visual identity documentation and made sure to meet recommendations of having a black background, buttons of at least 52 pixels in width, and high contrast, almost neon, colors. We also implemented the SF Compact Design font, which Apple has tested as a font that is highly readable at small sizes. Our goal with following these recommendations was to make sure we adhered to watch design standards, but also to build something familiar that allows the user to immediately figure out how to use it.
 
