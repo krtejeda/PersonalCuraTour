@@ -79,9 +79,11 @@ We retained the critical aspects of our original paper prototype in our final pr
 
 # Digital Mockup
 
-![](https://github.com/krtejeda/PersonalCuraTour/blob/gh-pages/img/overview4.png)
+![](https://krtejeda.github.io/PersonalCuraTour/img/overview4.png)
 *Overview Picture
+
 ----------------------------
+
 ![](https://krtejeda.github.io/PersonalCuraTour/img/mockupReview2.png)
 ![](https://krtejeda.github.io/PersonalCuraTour/img/mockupReview1.png)
 *Example walkthrough of the free roam task on our digital mockup
