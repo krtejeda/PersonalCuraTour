@@ -31,13 +31,16 @@ Read our full project proposal at [Project Proposal](https://krtejeda.github.io/
 # Initial Paper Prototype 
 
 ![](https://krtejeda.github.io/PersonalCuraTour/img/watch_12.jpg)
-Full overview at [Paper Prototype](https://krtejeda.github.io/PersonalCuraTour/Paper-Prototype/)
+Full overview with step by step walkthrough both of our tasks at [Paper Prototype](https://krtejeda.github.io/PersonalCuraTour/Paper-Prototype/)
 
 The goal of our initial design is to be simple and clean, presenting an intuitive interface that makes it easy for the visitor to get started, while also receding into the museum experience so to no obtrude from said experience. 
 
 This goal is mainly accomplished through seamless deliverance of audio and navigation instructions. Specifically, the audio snippets, which are played at key moments during the user’s experience and are typically mapped to physical locations in the museum via GPS, supplement the placards in the museum and allow the user to place full attention on the surrounding exhibit. Navigation is communicated through haptic vibrations so that the user can spend more time staring at the art, and trust that they only have to look at the watch when they have to make a turn.
 
-The user has two options upon opening the app: “free roam” or “tour.” These two options reflect our two main tasks: explore the museum as intended and explore the museum whatever way makes sense to you. If the user chooses free roam, they begin exploring the museum at their own pace but have their experience supplemented with appropriate context via audio. The artworks that the user visits are saved so that once they are done, they can save their path, provide a title, and upload it for other visitors to experience what they experienced! On the other hand, if the user chooses a guided tour from the selection of community or curator sourced tours, they are provided navigation instructions for the tour that they selected. These tours are also supplemented with audio to further immerse the user in the experience. Upon completion of a tour, they rate the tour on a scale of one to five stars. 
+The user has two options upon opening the app: “free roam” or “tour.” These two options reflect our two main tasks: explore the museum as intended and explore the museum whatever way makes sense to you. 
+
+- **Free roam**: They begin exploring the museum at their own pace but have their experience supplemented with appropriate context via audio. The artworks that the user visits are saved so that once they are done, they can save their path, provide a title, and upload it for other visitors to experience what they experienced! 
+- **Guided tour**: From the selection of community or curator sourced tours, they are provided navigation instructions for the tour that they selected. These tours are also supplemented with audio to further immerse the user in the experience. Upon completion of a tour, they rate the tour on a scale of one to five stars. 
 
 # Testing Process
 ----------------------------
