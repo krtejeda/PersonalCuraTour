@@ -24,22 +24,7 @@ description: Personal CuraTour
 # List of links in the navigation bar
 navbar-links:
   TOP SECRET: "aboutme"
-  Assignments:
-    - Team Contract: "Team-Contract"
-    - Contextual Inquiry Plan: "Contextual-Inquiry-Plan"
-    - Project Proposal: "Project-Proposal"
-    - Contextual Inquiry Check-In: "Contextual-Inquiry-Check-In"
-    - Contextual Inquiry Review: "Contextual-Inquiry-Review"
-    - Task Review: "Task-Review" 
-    - Project Design Check-In: "Project-Design-Check-In"
-    - Project Design Review: "Project-Design-Review"
-    - Looking to Understand: "Looking-To-Understand"
-    - Paper Prototype: "Paper-Prototype"
-    - Heuristic Evaluation: "Heuristic-Evaluation"
-    - Usability Testing Check-In: "Usability-Testing-CheckIn"
-    - Usability Testing Review: "Usability-Testing-Review"
-    - Digital Mockup: "Digital-Mockup"
-    - User Experience Design Overview: "User-Experience-Design-Overview"
+  Appendix: "Appendix
 
 # Image to show in the navigation bar - image must be a square (width = heiht)
 # Remove this parameter if you don't want an image in the navbar
