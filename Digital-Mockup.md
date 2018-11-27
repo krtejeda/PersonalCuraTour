@@ -1,5 +1,5 @@
 ---
-Layout: page
+Layout: front
 Title: Digital Mockup
 ---
 
