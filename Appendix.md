@@ -1,6 +1,6 @@
 ---
-Layout: page
-Title: Appendix
+layout: page
+title: Appendix
 ---
 
 1. [Team Contract](https://krtejeda.github.io/PersonalCuraTour/Team-Contract/)
