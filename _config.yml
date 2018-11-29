@@ -99,5 +99,5 @@ _comments:
   zoom: The zoom level for the map.
   pricing_table: Update the information in the pricing tables.
   highlight: Emphasis the text
-  color: The background colour used in the plan name and call to action.
+  color: #FFFFFF
   new_window: Open link in new window
